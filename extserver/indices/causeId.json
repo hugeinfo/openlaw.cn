@@ -1,0 +1,1613 @@
+{
+  "民事": {
+    "人格权纠纷": {
+      "生命权、健康权、身体权纠纷": "http://openlaw.cn/search/judgement/type?causeId=40397b653cc7402db95760c6c6f954b3",
+      "姓名权纠纷": "http://openlaw.cn/search/judgement/type?causeId=0660179988974405ae416e9f061e7901",
+      "肖像权纠纷": "http://openlaw.cn/search/judgement/type?causeId=60a2a66286fb4fc196ed31b7e5098c99",
+      "名誉权纠纷": "http://openlaw.cn/search/judgement/type?causeId=cd1ca0e0658f4909a984fb36417f2144",
+      "荣誉权纠纷": "http://openlaw.cn/search/judgement/type?causeId=8647c3bdfcf64238be863be5c1a1004e",
+      "隐私权纠纷": "http://openlaw.cn/search/judgement/type?causeId=f503d78cfda043e989f7ef1d5fef8510",
+      "婚姻自主权纠纷": "http://openlaw.cn/search/judgement/type?causeId=7a99cc77e0494fa2995b7f90baeda602",
+      "人身自由权纠纷": "http://openlaw.cn/search/judgement/type?causeId=cedd1dd7b13645129c6ec29fbfa2591c",
+      "一般人格权纠纷": "http://openlaw.cn/search/judgement/type?causeId=ef557f65939c48d2bb82a36e9126aed7",
+      "人格权纠纷": "http://openlaw.cn/search/judgement/type?causeId=254db43d5f23400880673f8fd25c8aed"
+    },
+    "婚姻家庭、继承纠纷": {
+      "婚姻家庭纠纷": {
+        "婚约财产纠纷": "http://openlaw.cn/search/judgement/type?causeId=d3c3ebfb91f94fe4a59c679185c2be6d",
+        "离婚纠纷": "http://openlaw.cn/search/judgement/type?causeId=0af8cf38a50743a99f84f993cc13fbc0",
+        "离婚后财产纠纷": "http://openlaw.cn/search/judgement/type?causeId=0f62a489e8284ffc9b22bc0a4a12012e",
+        "离婚后损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=970175e7526f4375b356689e14ac5c20",
+        "婚姻无效纠纷": "http://openlaw.cn/search/judgement/type?causeId=032f5c1932424259a74a89d3b48ccfbf",
+        "撤销婚姻纠纷": "http://openlaw.cn/search/judgement/type?causeId=6e38225fda1948f18a6e93683d5e03b8",
+        "夫妻财产约定纠纷": "http://openlaw.cn/search/judgement/type?causeId=fa8bafc704134cdbb24ec9d413bf55ab",
+        "同居关系纠纷": {
+          "同居关系析产纠纷": "http://openlaw.cn/search/judgement/type?causeId=7e481cc4430b4a4eb8338d1c4a058581",
+          "同居关系子女抚养纠纷": "http://openlaw.cn/search/judgement/type?causeId=a66095b7b64443b7b5e943d9c9401add"
+        },
+        "抚养纠纷": {
+          "抚养费纠纷": "http://openlaw.cn/search/judgement/type?causeId=9c1131a6d0e74b139d7ee1d156199d73",
+          "变更抚养关系纠纷": "http://openlaw.cn/search/judgement/type?causeId=8939136e012c46f18ac53c100fecfa86"
+        },
+        "扶养纠纷": {
+          "扶养费纠纷": "http://openlaw.cn/search/judgement/type?causeId=4eeaddabd7634fd78f3d417698c3a941",
+          "变更扶养关系纠纷": "http://openlaw.cn/search/judgement/type?causeId=783385255f2246ea96d839605b64af90"
+        },
+        "赡养纠纷": {
+          "赡养费纠纷": "http://openlaw.cn/search/judgement/type?causeId=43dcdff89b2f43d0b8a177c4e080a850",
+          "变更赡养关系纠纷": "http://openlaw.cn/search/judgement/type?causeId=9d1c91659cbf43f599211b6c5e01983a"
+        },
+        "收养关系纠纷": {
+          "确认收养关系纠纷": "http://openlaw.cn/search/judgement/type?causeId=e44401c5f16c401c8c7eba3d17d632bf",
+          "解除收养关系纠纷": "http://openlaw.cn/search/judgement/type?causeId=bacf734f030d4b1aa1d874bd1e246359"
+        },
+        "监护权纠纷": "http://openlaw.cn/search/judgement/type?causeId=17cb1daa5d3942958f04583658ae1ce9",
+        "探望权纠纷": "http://openlaw.cn/search/judgement/type?causeId=40b94ae6bc4545f695fe8bffa3634f0d",
+        "分家析产纠纷": "http://openlaw.cn/search/judgement/type?causeId=8a168bb94bf64ae3ae408fa988ea264d"
+      },
+      "继承纠纷": {
+        "法定继承纠纷": {
+          "转继承纠纷": "http://openlaw.cn/search/judgement/type?causeId=a68becb872d747e09d992d5373a86a3f",
+          "代位继承纠纷": "http://openlaw.cn/search/judgement/type?causeId=1778afe7fb004065a3191be98d88fb8d"
+        },
+        "遗嘱继承纠纷": "http://openlaw.cn/search/judgement/type?causeId=bda99d4924054f61bbba172ce84c7932",
+        "被继承人债务清偿纠纷": "http://openlaw.cn/search/judgement/type?causeId=c91745acdb024968beb033805cf14dca",
+        "遗赠纠纷": "http://openlaw.cn/search/judgement/type?causeId=e02a9a1b5c914183bffc8b5dff874ef9",
+        "遗赠扶养协议纠纷": "http://openlaw.cn/search/judgement/type?causeId=037ed2f4b8cd4c69b3128af5b0fcbed2"
+      }
+    },
+    "物权纠纷": {
+      "不动产登记纠纷": {
+        "异议登记不当损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=46f2c467de9f4814b5d28d37990c0d7f",
+        "虚假登记损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=f9da8e426d7748deb003a1e239fb5b54"
+      },
+      "物权保护纠纷": {
+        "物权确认纠纷": {
+          "所有权确认纠纷": "http://openlaw.cn/search/judgement/type?causeId=6867615fe65d4986be32c46c31fe7e69",
+          "用益物权确认纠纷": "http://openlaw.cn/search/judgement/type?causeId=66980ccb70934c3982fb24bf240ce138",
+          "担保物权确认纠纷": "http://openlaw.cn/search/judgement/type?causeId=6fb0625e95cf48b39eab664fcec07715"
+        },
+        "返还原物纠纷": "http://openlaw.cn/search/judgement/type?causeId=7b21a889ec7144eeaddfdb5e9b5b5e7e",
+        "排除妨害纠纷": "http://openlaw.cn/search/judgement/type?causeId=c38e72557c614dae8d665a096d2bbeac",
+        "消除危险纠纷": "http://openlaw.cn/search/judgement/type?causeId=1ae8c7ae6c764e9783d803a213cfe13e",
+        "修理、重作、更换纠纷": "http://openlaw.cn/search/judgement/type?causeId=da66a356ee41447c9951bd0121083e79",
+        "恢复原状纠纷": "http://openlaw.cn/search/judgement/type?causeId=c3fd04a3b35947b5b3433b8da86364f3",
+        "财产损害赔偿纠纷": "http://openlaw.cn/search/judgement/type?causeId=5ebbd2f4b58b472d9657cafa5c9af492"
+      },
+      "所有权纠纷": {
+        "侵害集体经济组织成员权益纠纷": "http://openlaw.cn/search/judgement/type?causeId=974b745732574d96869c61d89ec60e7b",
+        "建筑物区分所有权纠纷": {
+          "业主专有权纠纷": "http://openlaw.cn/search/judgement/type?causeId=853adc917037494a8849c27287895de6",
+          "业主共有权纠纷": "http://openlaw.cn/search/judgement/type?causeId=ff46e53373dd4f49abbd9f750a899256",
+          "车位纠纷": "http://openlaw.cn/search/judgement/type?causeId=7f10a390049f4747838ba7bbdc72dc90",
+          "车库纠纷": "http://openlaw.cn/search/judgement/type?causeId=74c9af34db114465aa9b4d329279171c"
+        },
+        "业主撤销权纠纷": "http://openlaw.cn/search/judgement/type?causeId=f14a0a3ccc1a463281906a43d8676faa",
+        "业主知情权纠纷": "http://openlaw.cn/search/judgement/type?causeId=d003e03e2bb64ae382449f0bc8120ba0",
+        "遗失物返还纠纷": "http://openlaw.cn/search/judgement/type?causeId=d591e30e0ea44ece93ccf5610b477996",
+        "漂流物返还纠纷": "http://openlaw.cn/search/judgement/type?causeId=8bb0f3587875451ebdfcba8bcb615a92",
+        "埋藏物返还纠纷": "http://openlaw.cn/search/judgement/type?causeId=5a1ebc964da1419e93efe02400685cfa",
+        "隐藏物返还纠纷": "http://openlaw.cn/search/judgement/type?causeId=d3fbfb724b8e41ddb24385542e823e26",
+        "相邻关系纠纷": {
+          "相邻用水、排水纠纷": "http://openlaw.cn/search/judgement/type?causeId=fb8dfa560a714c218e5aff34cb4af911",
+          "相邻通行纠纷": "http://openlaw.cn/search/judgement/type?causeId=7858bc189f75499792b218de2e90090e",
+          "相邻土地、建筑物利用关系纠纷": "http://openlaw.cn/search/judgement/type?causeId=23a07165f58e4bab9db81c9cbcbd6164",
+          "相邻通风纠纷": "http://openlaw.cn/search/judgement/type?causeId=8c01452cf45d43e59fa69c6f24f5a691",
+          "相邻采光、日照纠纷": "http://openlaw.cn/search/judgement/type?causeId=3363f233da5c491a86eeb145c8d374e3",
+          "相邻污染侵害纠纷": "http://openlaw.cn/search/judgement/type?causeId=a6b2618f726148939979367ad92b357b",
+          "相邻损害防免关系纠纷": "http://openlaw.cn/search/judgement/type?causeId=5449ecaeb21b49008e93f039558f0f9f"
+        },
+        "共有纠纷": {
+          "共有权确认纠纷": "http://openlaw.cn/search/judgement/type?causeId=a3c022f9240f48c999fa939f3e79f678",
+          "共有物分割纠纷": "http://openlaw.cn/search/judgement/type?causeId=eaed9c2345084cb8afb59c97ba8853d9",
+          "共有人优先购买权纠纷": "http://openlaw.cn/search/judgement/type?causeId=00060aaa73f44106b0e75385c64e1b6d"
+        }
+      },
+      "用益物权纠纷": {
+        "海域使用权纠纷": "http://openlaw.cn/search/judgement/type?causeId=0d54138512864c1d81fc5a05f836a5a1",
+        "探矿权纠纷": "http://openlaw.cn/search/judgement/type?causeId=540edb2992aa4cfa808f833a299f1f96",
+        "采矿权纠纷": "http://openlaw.cn/search/judgement/type?causeId=e48af5fbf9604b5c8e595abf54bb9daa",
+        "取水权纠纷": "http://openlaw.cn/search/judgement/type?causeId=c2ac3f847c184156a003d6c94276fb92",
+        "养殖权纠纷": "http://openlaw.cn/search/judgement/type?causeId=ef7e2a129e5f407d915d0c1ac7095f28",
+        "捕捞权纠纷": "http://openlaw.cn/search/judgement/type?causeId=dc007758127f435394f58f1823bce338",
+        "土地承包经营权纠纷": {
+          "土地承包经营权确认纠纷": "http://openlaw.cn/search/judgement/type?causeId=a7108d6d848b466396c0b6ea5ba080cd",
+          "承包地征收补偿费用分配纠纷": "http://openlaw.cn/search/judgement/type?causeId=21e3ddfe89034570a20f06ab12d8e43c",
+          "土地承包经营权继承纠纷": "http://openlaw.cn/search/judgement/type?causeId=75412b98e123497bb0c835e68e3b65d5"
+        },
+        "建设用地使用权纠纷": "http://openlaw.cn/search/judgement/type?causeId=a69a987cae614cd08aada4593ac88df7",
+        "宅基地使用权纠纷": "http://openlaw.cn/search/judgement/type?causeId=fdfd4dde880e4a398df80f1f968db3f5",
+        "地役权纠纷": "http://openlaw.cn/search/judgement/type?causeId=a175444c4fac4ebb9dcbf0e9361cce55"
+      },
+      "担保物权纠纷": {
+        "抵押权纠纷": {
+          "建筑物和其他土地附着物抵押权纠纷": "http://openlaw.cn/search/judgement/type?causeId=ea8f4e4b7e294c2899e5a2da14d7dcaa",
+          "在建建筑物抵押权纠纷": "http://openlaw.cn/search/judgement/type?causeId=3841c8636b384233974bda1ac971eaea",
+          "建设用地使用权抵押权纠纷": "http://openlaw.cn/search/judgement/type?causeId=c58b2fc52c824b30b38c03c3cf585dc2",
+          "土地承包经营权抵押权纠纷": "http://openlaw.cn/search/judgement/type?causeId=24579571e7b54139b32ea05d58510309",
+          "动产抵押权纠纷": "http://openlaw.cn/search/judgement/type?causeId=7a6c5992f1094a23a2682cc285499176",
+          "在建船舶、航空器抵押权纠纷": "http://openlaw.cn/search/judgement/type?causeId=1f3343dcc1554603bd2a3c4c1ea20bd7",
+          "动产浮动抵押权纠纷": "http://openlaw.cn/search/judgement/type?causeId=24a20685938e4b498bb395fdc681b464",
+          "最高额抵押权纠纷": "http://openlaw.cn/search/judgement/type?causeId=890313c043b54224a1df8a3121869582"
+        },
+        "质权纠纷": {
+          "动产质权纠纷": "http://openlaw.cn/search/judgement/type?causeId=88dc68b27479428fa98844741e73a87a",
+          "转质权纠纷": "http://openlaw.cn/search/judgement/type?causeId=6b4f8615422b4048b751925ad61d0ac0",
+          "最高额质权纠纷": "http://openlaw.cn/search/judgement/type?causeId=09d5ceba1692474982072c577a4e7768",
+          "票据质权纠纷": "http://openlaw.cn/search/judgement/type?causeId=2bbd542a744e4401ade6ab0f260442ef",
+          "债券质权纠纷": "http://openlaw.cn/search/judgement/type?causeId=484860f359a34be986e0d32d765c9df7",
+          "存单质权纠纷": "http://openlaw.cn/search/judgement/type?causeId=36318e4496ae4522bc70b2eecff33abf",
+          "仓单质权纠纷": "http://openlaw.cn/search/judgement/type?causeId=00fff691742b40ac85e7c705f2dfabc3",
+          "提单质权纠纷": "http://openlaw.cn/search/judgement/type?causeId=8a5e6ab54d3948c68a364af837ade47f",
+          "股权质权纠纷": "http://openlaw.cn/search/judgement/type?causeId=e697cd2933cc481b9d805d7e0fac15e9",
+          "基金份额质权纠纷": "http://openlaw.cn/search/judgement/type?causeId=146a9c08b82e4396abb1a09a935cdf73",
+          "知识产权质权纠纷": "http://openlaw.cn/search/judgement/type?causeId=38a64288b9a74909875bb47d024b7957",
+          "应收账款质权纠纷": "http://openlaw.cn/search/judgement/type?causeId=7857afeb9fce45baa445ad5f882f4376"
+        },
+        "留置权纠纷": "http://openlaw.cn/search/judgement/type?causeId=5dffe81fad2f45ac9f032dca85221f66"
+      },
+      "占有保护纠纷": {
+        "占有物返还纠纷": "http://openlaw.cn/search/judgement/type?causeId=b6a70dca7d6846cf93b0a51ffe4c8835",
+        "占有排除妨害纠纷": "http://openlaw.cn/search/judgement/type?causeId=9e38377751f74c1bba61d23a9a20d1b1",
+        "占有消除危险纠纷": "http://openlaw.cn/search/judgement/type?causeId=9213a3f47f7b48ceb14ea864750bc3fa",
+        "占有物损害赔偿纠纷": "http://openlaw.cn/search/judgement/type?causeId=128abe331b6a40189ca4930f71526282"
+      }
+    },
+    "合同、无因管理、不当得利纠纷": {
+      "合同纠纷": {
+        "缔约过失责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=07f09e5b026447579f4889b99e9a74d1",
+        "确认合同效力纠纷": {
+          "确认合同有效纠纷": "http://openlaw.cn/search/judgement/type?causeId=35e84b50cd034d81b33821c845a7f652",
+          "确认合同无效纠纷": "http://openlaw.cn/search/judgement/type?causeId=74be2506d4414ca9ab524a1b91770e6b"
+        },
+        "债权人代位权纠纷": "http://openlaw.cn/search/judgement/type?causeId=781be668e6bf4395a937007f6018e1b2",
+        "债权人撤销权纠纷": "http://openlaw.cn/search/judgement/type?causeId=43376c36617a45a682139179926fe420",
+        "债权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=19ffe6993ce44854834c3ec8cdf76fec",
+        "债务转移合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=6db29b623e3d4e018877f46f5c80b7c1",
+        "债权债务概括转移合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=4a9a00b1538c4e108e8b7be507239ed6",
+        "悬赏广告纠纷": "http://openlaw.cn/search/judgement/type?causeId=a06ace471928448e96e5c0d910e5b8d6",
+        "买卖合同纠纷": {
+          "分期付款买卖合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=58fcf7c276bc4beda47bc7d63263d745",
+          "凭样品买卖合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=65433cc7827b4377821547a269907c62",
+          "试用买卖合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=48bb104298fa48e390b7a5a4ccf5a8c6",
+          "互易纠纷": "http://openlaw.cn/search/judgement/type?causeId=c728722d423b42e39541562791df99af",
+          "国际货物买卖合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=61900d145e6842e4bae2312d33bd2b39",
+          "网络购物合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=47f07ceb8b5e49cbb94dfc33ccd65b09",
+          "电视购物合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=4083a5873e6c4c93824f3f0bb715efea"
+        },
+        "招标投标买卖合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=27a3dd242b3f4068afc5866502a000d2",
+        "拍卖合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=1f9a4d31d6fb4d75a85e7ccfae7bde7b",
+        "建设用地使用权合同纠纷": {
+          "建设用地使用权出让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=078bc7202430495a8961dd1d1ec0bdea",
+          "建设用地使用权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=e683b7dcb22c45328fb141bf3a2c0de2"
+        },
+        "临时用地合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=e6676cf036694d378f6ebd427943ecbf",
+        "探矿权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=504232c369494387bf2bb603bfaa9ecb",
+        "采矿权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=306c9640408143f5937e8eb8cbede2f4",
+        "房地产开发经营合同纠纷": {
+          "委托代建合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=7c5a1f1680ef4f0cbdda4802fde81ace",
+          "合资、合作开发房地产合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=f7ebb26ba3ca4135ad7af93a04769cce",
+          "项目转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=d212da5c61a842588f3c34b815038e39"
+        },
+        "房屋买卖合同纠纷": {
+          "商品房预约合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=667bbde2214c4fe9904ef51be71e039c",
+          "商品房预售合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=4ac94eb28fc9435db35c00a4d18219e6",
+          "商品房销售合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=96bd5db9126546d29e43e511f5bc0f10",
+          "商品房委托代理销售合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=7f7c119b43a5489a8048fd333dae1b79",
+          "经济适用房转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=68f6a23437384e39be3f9bc7fcf49026",
+          "农村房屋买卖合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=13ba3d3c037b4d958cff66b874d02597"
+        },
+        "房屋拆迁安置补偿合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=3cba59e8ec214e14b0dfc568005b8f00",
+        "供用电合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=1535927e8e5241649493d485f7134269",
+        "供用水合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=72887081ca3e4b03aa7940199c66c683",
+        "供用气合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=ce5e22eb4650474582a5a7c29a67bc64",
+        "供用热力合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=22840ac686ba437592a6cefdf2a24463",
+        "赠与合同纠纷": {
+          "公益事业捐赠合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=99ed0f2e0da24f9e8c8130ac7cb81f68",
+          "附义务赠与合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=62add09490c0473485ee6a090a1389fc"
+        },
+        "借款合同纠纷": {
+          "金融借款合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=da0c952c075149e3aa40a430b0a8e7e2",
+          "同业拆借纠纷": "http://openlaw.cn/search/judgement/type?causeId=8df8c02aa25e499cb4e1fef6cfde4839",
+          "企业借贷纠纷": "http://openlaw.cn/search/judgement/type?causeId=e43cb1d42e8447a6b5f03d27b45cc109",
+          "民间借贷纠纷": "http://openlaw.cn/search/judgement/type?causeId=4e74321ea7844beabd80a862527af219",
+          "小额借款合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=942593c7a1734d1ba13b3f3b4c403f80",
+          "金融不良债权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=3e3ff7c6aa2c4edbb347e0e1c34b81a8",
+          "金融不良债权追偿纠纷": "http://openlaw.cn/search/judgement/type?causeId=003b95a1db8c49afa59b6c43362cc21e"
+        },
+        "保证合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=fa327526a40c4b31b787ed840b14f053",
+        "抵押合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=188f488c68ac4466b67bc558d48b0128",
+        "质押合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=80d196e2fd444be294fe61c251c310e4",
+        "定金合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=c17860db413a4a60ac06a7fde1149dc9",
+        "进出口押汇纠纷": "http://openlaw.cn/search/judgement/type?causeId=b3623774985447d690ec6aa5a23e3174",
+        "储蓄存款合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=55b6fa6e11464f348751e05450545d99",
+        "银行卡纠纷": {
+          "借记卡纠纷": "http://openlaw.cn/search/judgement/type?causeId=a4f0e58de2014effb8c2147e73242b82",
+          "信用卡纠纷": "http://openlaw.cn/search/judgement/type?causeId=381ebce6da6b4c189d4e64b77afde4ff"
+        },
+        "租赁合同纠纷": {
+          "土地租赁合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=0d661b0b2e9c402482181341bac3e4c5",
+          "房屋租赁合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=2d64aa4a1c25434091956977e6be3321",
+          "车辆租赁合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=3cd6e5f147d543a583714825b1db8398",
+          "建筑设备租赁合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=5f6f214aa3cc42a6b07b5eaf7159a8d8"
+        },
+        "融资租赁合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=5d74ac24a0634a398a00778f2d08da57",
+        "承揽合同纠纷": {
+          "加工合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=1f3ae16ee41e4a88ad58a09238b495e0",
+          "定作合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=f1011376edd24848a6ba2f35b1c18c32",
+          "修理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=5ada95a1d41c482c81a2d780c9cfbda8",
+          "复制合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=a1685b16dab24e95b1332b74d2e06847",
+          "测试合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=1a8dc47d04ab4312b5fb204cd1344ffc",
+          "检验合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=e0f906bdce28405bae13914e20aec4fa",
+          "铁路机车、车辆建造合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=01b3ffe5d5a14051aa4decdd26286073"
+        },
+        "建设工程合同纠纷": {
+          "建设工程勘察合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=058a5e867e7e476db87b16353bc84a46",
+          "建设工程设计合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=079b5714bcc54ebba3e7fa4ce997d92d",
+          "建设工程施工合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=ca1da54001154a29849820cdccebe907",
+          "建设工程价款优先受偿权纠纷": "http://openlaw.cn/search/judgement/type?causeId=b0bf9ed73ff3420898d9c815b9e4b278",
+          "建设工程分包合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=84d57ea44591444ca7738347b10d668e",
+          "建设工程监理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=a3d94f09f1db4e4698a2b66975d46f83",
+          "装饰装修合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=4ccab36c13d74d408769a001217ef876",
+          "铁路修建合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=5c790360dfe941c389273cb81287e60b",
+          "农村建房施工合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=24d88f397fcc462497dfdb79faaadbd2"
+        },
+        "运输合同纠纷": {
+          "公路旅客运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=7cf6ce41f23f49eeb5ab9b67ea8d5812",
+          "公路货物运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=2922c716008b4abcb7824325dc956218",
+          "水路旅客运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=265b56ae6987407fb522b87247a03df8",
+          "水路货物运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=955a3f00d9c24ed8ba2eabc0844138c3",
+          "航空旅客运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=423066935cb5423891f4d708730c85ad",
+          "航空货物运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=b8805a0562fb4879ba4fb769c3531ca3",
+          "出租汽车运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=acdcd16dfcd043d2b35f9f5f01e0b192",
+          "管道运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=8231230a01484013855638a528e1d59f",
+          "城市公交运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=17b3332de79f4cf9bfd5cab5b998caf2",
+          "联合运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=5a92c96febb3495c9442efe1c89805a3",
+          "多式联运合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=1f647f79f7544f11a97b1b1d41651e48",
+          "铁路货物运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=0a90fe602a2c47eabc8f9fecf4bddc3c",
+          "铁路旅客运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=f274ef0a3f0a431c845eda8cbdcb4072",
+          "铁路行李运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=3400a6e073f54a8db26e30079b22b048",
+          "铁路包裹运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=2a4f1720eabd43bda178e028e7be6ef1",
+          "国际铁路联运合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=786e0ffb45cc487cafeb0f237854be89"
+        },
+        "保管合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=b51da3ab45d54b08afc30315717f0cbb",
+        "仓储合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=9ce9c0633fa74916920f6b7cbd321cb2",
+        "委托合同纠纷": {
+          "进出口代理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=dd814c9a9e174c608f0a6e6fbcacab0e",
+          "货运代理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=927288808bc34aacae495802d9eff819",
+          "民用航空运输销售代理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=54ffb6987b01491982b77e75cf6010aa",
+          "诉讼、仲裁、人民调解代理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=78d23745206844ec9105bde9249989b1"
+        },
+        "委托理财合同纠纷": {
+          "金融委托理财合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=cd24bea94a924bb69eba2492e1c807a0",
+          "民间委托理财合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=a298a012997341cfb2b9fddefc3fde1c"
+        },
+        "行纪合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=a0e56de901984cdca215625eeead5a74",
+        "居间合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=280b00d8a11f4f0795d25b38eef7dbd8",
+        "补偿贸易纠纷": "http://openlaw.cn/search/judgement/type?causeId=5bb6b739891c4aaa9d28abb96decbf1e",
+        "借用合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=4769d262d17b4ebdb46debce067b180b",
+        "典当纠纷": "http://openlaw.cn/search/judgement/type?causeId=9c8580e741b24923af3ee0597b5768f4",
+        "合伙协议纠纷": "http://openlaw.cn/search/judgement/type?causeId=3c62f401b2ea4505b3bd737c8a823ec7",
+        "种植、养殖回收合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=cfe0947070f24be8a41de7c87f72f2c5",
+        "彩票、奖券纠纷": "http://openlaw.cn/search/judgement/type?causeId=f690702f19404bd19d502081f845b756",
+        "中外合作勘探开发自然资源合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=5dc472a906af48e3b3649375a29d7c16",
+        "农业承包合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=6ffebe4ed532455e973f026ed703756d",
+        "林业承包合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=855aa78719b94f90a377740bf5ae15f2",
+        "渔业承包合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=bb94a2add5d24e9abc87680a1cb5f102",
+        "牧业承包合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=82874953c4a945ec831f3c4bc81820bb",
+        "农村土地承包合同纠纷": {
+          "土地承包经营权转包合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=401a2786a44048c5a699fe861d8b9712",
+          "土地承包经营权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=7f48ac06dd0641688f8e9f0509bac5ce",
+          "土地承包经营权互换合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=5f27d12ce4684b51a0b145b70bfabbb4",
+          "土地承包经营权入股合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=e8e62eb0a0e449e198c164e9b31f51b7",
+          "土地承包经营权抵押合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=3dd7b67ade3944019ca75e5d291e5417",
+          "土地承包经营权出租合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=cbc79cc8d69549109f6908911574044c"
+        },
+        "服务合同纠纷": {
+          "电信服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=bac865e4b4be488bbf5be11b43b12cb4",
+          "邮寄服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=cb9dc8da26404f75abb672a2498b4d98",
+          "医疗服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=ede2de39c4144e32b48501f7d34be3f7",
+          "法律服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=d5f1c0d641d747d4a567f8c41d1d3a3c",
+          "旅游合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=90f5d0e32439416c88817f28f0ff1ae8",
+          "房地产咨询合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=c45fc80cc72447339aad921068013ad6",
+          "房地产价格评估合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=82e6c303c4454f52b5dffaffeef300fc",
+          "旅店服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=a0f827227c474ee8b286575b2e301fac",
+          "财会服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=9ebefb778a1f4c8093a34c0d280153ce",
+          "餐饮服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=d41d2ac56e424d9e8179d678fd713e03",
+          "娱乐服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=42fd8dfab107496393fa133564d27c3a",
+          "有线电视服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=f44dfdb2ca614903a64f69ea4a820ec3",
+          "网络服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=e3252e850655404185eb4ecb795a3618",
+          "教育培训合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=4e582160dc9540b381501e849504f311",
+          "物业服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=cdfdb91cad67452b98d0262362ab2c31",
+          "家政服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=10cbfadad5b7470dba7104f226604513",
+          "庆典服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=680e7ccde258421599fd9276177d40a2",
+          "殡葬服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=d6a365ea3e154f4d90546f808c99a05d",
+          "农业技术服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=f87dbf99d34643f38f3ad4b67bc947f1",
+          "农机作业服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=5060ac70b5574f379b3935470e42d97b",
+          "保安服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=f5ba811930cd4ecba1feea6a21ce28a4",
+          "银行结算合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=1b7ea9c408e34c858832956a9088044f"
+        },
+        "演出合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=9d7c906db63b4e5db2b604f380fdbdc9",
+        "劳务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=c4f1983fb8db47108dace5e9efad5c94",
+        "离退休人员返聘合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=d313f11661384fcfbfb6c2720a3ee305",
+        "广告合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=22bed0750c5545148a32fc6d65bec7f1",
+        "展览合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=310f3b6c06f14082a2af1d4440a686aa",
+        "追偿权纠纷": "http://openlaw.cn/search/judgement/type?causeId=35815a407fed437f8b933dccb5f2cd41",
+        "请求确认人民调解协议效力": "http://openlaw.cn/search/judgement/type?causeId=248d604317544ed88c8f23b450cff1f4"
+      },
+      "不当得利纠纷": {
+        "不当得利纠纷": "http://openlaw.cn/search/judgement/type?causeId=810ebc316bab4adc9f16ec2fba28599b"
+      },
+      "无因管理纠纷": {
+        "无因管理纠纷": "http://openlaw.cn/search/judgement/type?causeId=eb00d63389824cac971acefb03b45ed2"
+      }
+    },
+    "知识产权与竞争纠纷": {
+      "知识产权合同纠纷": {
+        "著作权合同纠纷": {
+          "委托创作合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=626edb388507493393bf6b8ffbbd8ea4",
+          "合作创作合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=66e6cd6df854476394c1b6e3340df78b",
+          "著作权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=6c3f2896f6364bb99d8b566878592164",
+          "著作权许可使用合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=4bee47239b5b46198d90ac8264eb86a8",
+          "出版合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=ea3d090e8d7c49968a2c5c8452428d21",
+          "表演合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=b88b91151c104e569c1f724b6ecadae2",
+          "音像制品制作合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=13d2e810218e4928b8c86f79fbb213db",
+          "广播电视播放合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=d3ee4b54027d436db8e6bbd9f93b7530",
+          "邻接权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=4a59c86ee88041adaf50a207f194d2c9",
+          "邻接权许可使用合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=b84e9f51516d4e378e6dbc9a67d35ca5",
+          "计算机软件开发合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=99d3621ae6304ecba04193966298ba38",
+          "计算机软件著作权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=16e3d8168432426d966856efc0eead76",
+          "计算机软件著作权许可使用合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=b4116360688942679848212c0182f886"
+        },
+        "商标合同纠纷": {
+          "商标权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=4b01f0eefd6346078fead95196a77c26",
+          "商标使用许可合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=c726aabc57fe46f2a14ec1ce81c682fc",
+          "商标代理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=d7dce31720df4ff8a08e3bd286088b8d"
+        },
+        "专利合同纠纷": {
+          "专利申请权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=4e7967dd7f16478dbe3823378f303f7e",
+          "专利权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=423ada1251ba4a4e86b4e5328823d458",
+          "发明专利实施许可合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=21978c2c0bfb438baa90b40ea4f683fd",
+          "实用新型专利实施许可合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=d9b1c91297f14bb78af4bd091c8b4a73",
+          "外观设计专利实施许可合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=59f99f09e63d49018eab12005fdf40af",
+          "专利代理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=5c13856e6eac44b2bf39d809a122791a"
+        },
+        "植物新品种合同纠纷": {
+          "植物新品种育种合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=cb516a58d0f64c1ab5ccdae81ecd034a",
+          "植物新品种申请权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=1796c67ba31b42ca82dc26e01e7829d7",
+          "植物新品种权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=2af7ec97d5e14759b6836f4b5d85891e",
+          "植物新品种实施许可合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=2276ff29db1d4d2d87c8f87dceb5fb06"
+        },
+        "集成电路布图设计合同纠纷": {
+          "集成电路布图设计创作合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=fba81e70b4e1461fa5f4cec99482107d",
+          "集成电路布图设计专有权转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=f31b0e73a58e41a09fd60c4c5b7a852b",
+          "集成电路布图设计许可使用合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=1bb3020814784c57a0fda1f7948af349"
+        },
+        "商业秘密合同纠纷": {
+          "技术秘密让与合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=ed23d935849e468bb73846ec004e95b4",
+          "技术秘密许可使用合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=4ee888d29f1c464394a9df3e787960b1",
+          "经营秘密让与合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=8a199d43b1bf434a8f1fcf8fd2588b84",
+          "经营秘密许可使用合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=64e804c9b8f64db09d2f7916f672dd13"
+        },
+        "技术合同纠纷": {
+          "技术委托开发合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=6e0e59c59d26499383fde73a650238b0",
+          "技术合作开发合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=b9c45d40ce854b3ca98e2290076a1d10",
+          "技术转化合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=8e26d6e3f9a343298568cad09e9fa2a4",
+          "技术转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=3f438e0f2b5f430980f9ebf43da8c16d",
+          "技术咨询合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=3e29696442dd4f00a6e5185446b0c643",
+          "技术服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=f8f32d8b01b146ecb60b8f38babc5242",
+          "技术培训合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=2b1560bc992a4bae91dfc8afca3f50c9",
+          "技术中介合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=57f5e6023a8a44679bb73793ea72a207",
+          "技术进口合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=252885789cff4937b347b95433bf53a5",
+          "技术出口合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=fca75a645aa64f56b6e7eec10afc38ce",
+          "职务技术成果完成人奖励、报酬纠纷": "http://openlaw.cn/search/judgement/type?causeId=56a160db55b74ec79925a88b36418af4",
+          "技术成果完成人署名权、荣誉权、奖励权纠纷": "http://openlaw.cn/search/judgement/type?causeId=60bdb78ab54b42539eda527ab2a7db3e"
+        },
+        "特许经营合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=746f1bbd7eeb4a70b53d065f811d52cd",
+        "企业名称（商号）合同纠纷": {
+          "企业名称（商号）转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=d4bb7087e07e46c4a77b1a6a0e145d00",
+          "企业名称（商号）使用合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=e13e7dcb502d4aa1859a0c50b5c36ef8"
+        },
+        "特殊标志合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=27301d7738a7485dbc58b3751cfb1d83",
+        "网络域名合同纠纷": {
+          "网络域名注册合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=910aeea14bc94b8a8b0f14ddb2c24902",
+          "网络域名转让合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=0b10a216578f4495a5bacb05ec026c26",
+          "网络域名许可使用合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=19a205d2cb6a4ac98ee43cf6b20882b7"
+        },
+        "知识产权质押合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=3ac038412cf249519f23f920318ba72d"
+      },
+      "知识产权权属、侵权纠纷": {
+        "著作权权属、侵权纠纷": {
+          "著作权权属纠纷": "http://openlaw.cn/search/judgement/type?causeId=27bf887c2db94cc0942076cbc0a49def",
+          "侵害作品发表权纠纷": "http://openlaw.cn/search/judgement/type?causeId=63cf6ca1a9c2402fabfe29307339afa0",
+          "侵害作品署名权纠纷": "http://openlaw.cn/search/judgement/type?causeId=8ee106d36ef044d4add6d0c80d872f2e",
+          "侵害作品修改权纠纷": "http://openlaw.cn/search/judgement/type?causeId=2441fc03d40a4aea8f92bdf9606cf87a",
+          "侵害保护作品完整权纠纷": "http://openlaw.cn/search/judgement/type?causeId=55df05effcac457588b65962362f17b4",
+          "侵害作品复制权纠纷": "http://openlaw.cn/search/judgement/type?causeId=63deb45d43f943dbab329f6950be7b92",
+          "侵害作品发行权纠纷": "http://openlaw.cn/search/judgement/type?causeId=20598227a13645d19e9ced8111a8f1e5",
+          "侵害作品出租权纠纷": "http://openlaw.cn/search/judgement/type?causeId=ee1db5f9ef834688bbae181df312e0ad",
+          "侵害作品展览权纠纷": "http://openlaw.cn/search/judgement/type?causeId=e903a3d7f5464bcdb2037dc7c22395ae",
+          "侵害作品表演权纠纷": "http://openlaw.cn/search/judgement/type?causeId=56e5587bf4f546ae80d5835e19f2ee5d",
+          "侵害作品放映权纠纷": "http://openlaw.cn/search/judgement/type?causeId=8820878a68d6440c87e046fc2d04e20c",
+          "侵害作品广播权纠纷": "http://openlaw.cn/search/judgement/type?causeId=3a7e1b379fa241f58e75b25168f910ef",
+          "侵害作品信息网络传播权纠纷": "http://openlaw.cn/search/judgement/type?causeId=fedbdb6f7a6846408f3c2fd4a33625b5",
+          "侵害作品摄制权纠纷": "http://openlaw.cn/search/judgement/type?causeId=906bbf6382394c4d8ca1b6b6db20a868",
+          "侵害作品改编权纠纷": "http://openlaw.cn/search/judgement/type?causeId=d62d7d77f6674e92b77a2d4f0d079951",
+          "侵害作品翻译权纠纷": "http://openlaw.cn/search/judgement/type?causeId=e2c1295b5dd84e9097679aec068c744d",
+          "侵害作品汇编权纠纷": "http://openlaw.cn/search/judgement/type?causeId=896d54798aed449c9a5dd5aae245dbaf",
+          "侵害其他著作财产权纠纷": "http://openlaw.cn/search/judgement/type?causeId=80a4acf0527c4a9f832a118958ebddea",
+          "出版者权权属纠纷": "http://openlaw.cn/search/judgement/type?causeId=a946eaba57bd466fb3928db170e33ff5",
+          "表演者权权属纠纷": "http://openlaw.cn/search/judgement/type?causeId=0f32308a798c421da6d6787980765a36",
+          "录音录像制作者权权属纠纷": "http://openlaw.cn/search/judgement/type?causeId=b22525ea454c46128fddf712365bbc6b",
+          "广播组织权权属纠纷": "http://openlaw.cn/search/judgement/type?causeId=66d8ae89a1864522965e751e7cd4c0be",
+          "侵害出版者权纠纷": "http://openlaw.cn/search/judgement/type?causeId=ac8f2d73147b4fdc9698f60d660713c8",
+          "侵害表演者权纠纷": "http://openlaw.cn/search/judgement/type?causeId=ba4d0f1bece6473a8272627c6ebeaac3",
+          "侵害录音录像制作者权纠纷": "http://openlaw.cn/search/judgement/type?causeId=4050ed4bd178472ba9c230dedae56a5b",
+          "侵害广播组织权纠纷": "http://openlaw.cn/search/judgement/type?causeId=888e8a80a86d47dcb154baaaa77027b7",
+          "计算机软件著作权权属纠纷": "http://openlaw.cn/search/judgement/type?causeId=b9b93875143b41179da4aee653fb2e33",
+          "侵害计算机软件著作权纠纷": "http://openlaw.cn/search/judgement/type?causeId=4a15f83de0af41c9996d551f7dd5725c"
+        },
+        "商标权权属、侵权纠纷": {
+          "商标权权属纠纷": "http://openlaw.cn/search/judgement/type?causeId=26147cbfb26c4110a8c5cbc132e27ec6",
+          "侵害商标权纠纷": "http://openlaw.cn/search/judgement/type?causeId=2569a92431fd4468a86c48f57df0eb76"
+        },
+        "专利权权属、侵权纠纷": {
+          "专利申请权权属纠纷": "http://openlaw.cn/search/judgement/type?causeId=167efd1af31d4ebaae8c6b446742c29d",
+          "专利权权属纠纷": "http://openlaw.cn/search/judgement/type?causeId=a325f558cfd743b4a279d9db5bb301f5",
+          "侵害发明专利权纠纷": "http://openlaw.cn/search/judgement/type?causeId=a9f7f84232f2499a8b14e67d8eb7b980",
+          "侵害实用新型专利权纠纷": "http://openlaw.cn/search/judgement/type?causeId=79bedc953b464eef96630f7ad9656193",
+          "侵害外观设计专利权纠纷": "http://openlaw.cn/search/judgement/type?causeId=43afb51cc47f472c8c2a572b442c3241",
+          "假冒他人专利纠纷": "http://openlaw.cn/search/judgement/type?causeId=bc5f5e2f97de426892ce9338c4eaa76d",
+          "发明专利临时保护期使用费纠纷": "http://openlaw.cn/search/judgement/type?causeId=747e7ca51d664be4951bfce7d630e0ed",
+          "职务发明创造发明人、设计人奖励、报酬纠纷": "http://openlaw.cn/search/judgement/type?causeId=6645b1df625a4fa09acedf2c5bf7e1b5",
+          "发明创造发明人、设计人署名权纠纷": "http://openlaw.cn/search/judgement/type?causeId=bf5a405830e34f4f9bba7bd8a224d318"
+        },
+        "植物新品种权权属、侵权纠纷": {
+          "植物新品种申请权权属纠纷": "http://openlaw.cn/search/judgement/type?causeId=b48597eca76c4f96839021513e5572bc",
+          "植物新品种权权属纠纷": "http://openlaw.cn/search/judgement/type?causeId=870028b33606484d90e99fd4743f9b4c",
+          "侵害植物新品种权纠纷": "http://openlaw.cn/search/judgement/type?causeId=7b74e1db208541ccb22d7bdb14224404"
+        },
+        "集成电路布图设计专有权权属、侵权纠纷": {
+          "集成电路布图设计专有权权属纠纷": "http://openlaw.cn/search/judgement/type?causeId=e37c06426dcc421c9b8b14fd4bdf4faa",
+          "侵害集成电路布图设计专有权纠纷": "http://openlaw.cn/search/judgement/type?causeId=9f15aba26a134bbb9a9ef586b8612e71"
+        },
+        "侵害企业名称（商号）权纠纷": "http://openlaw.cn/search/judgement/type?causeId=9d28038e5adb4cbf9a87ddae913b6177",
+        "侵害特殊标志专有权纠纷": "http://openlaw.cn/search/judgement/type?causeId=bf97cce80fd044f08efeb86115f4650c",
+        "网络域名权属、侵权纠纷": {
+          "网络域名权属纠纷": "http://openlaw.cn/search/judgement/type?causeId=9cde500e3b45461bb7d679b3b80aab28",
+          "侵害网络域名纠纷": "http://openlaw.cn/search/judgement/type?causeId=8c83bedbef634a0ab18e9312021655bf"
+        },
+        "发现权纠纷": "http://openlaw.cn/search/judgement/type?causeId=06d83267eea441279021e80a86b8747d",
+        "发明权纠纷": "http://openlaw.cn/search/judgement/type?causeId=9898586572ee47318568db0ead5dd35d",
+        "其他科技成果权纠纷": "http://openlaw.cn/search/judgement/type?causeId=de2c3af60dc64bec8a695c24ac8d705e",
+        "确认不侵害知识产权纠纷": {
+          "确认不侵害专利权纠纷": "http://openlaw.cn/search/judgement/type?causeId=7bb611ba222543fcbde14a98e3821d87",
+          "确认不侵害商标权纠纷": "http://openlaw.cn/search/judgement/type?causeId=f7785745657a45d28afa0a919ac741af",
+          "确认不侵害著作权纠纷": "http://openlaw.cn/search/judgement/type?causeId=ff0b2d81bb1f457aa60b3e19f741562d"
+        },
+        "因申请知识产权临时措施损害责任纠纷": {
+          "因申请诉前停止侵害专利权损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=10f68c3730cd44df9bb3be756a41374c",
+          "因申请诉前停止侵害注册商标专用权损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=5385e0670e7e428faa2a4015f7c66745",
+          "因申请诉前停止侵害著作权损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=721202dfc4414717b286726396235ea4",
+          "因申请诉前停止侵害植物新品种权损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=0a6034661b0848f9bbf9642dbdb0afe5",
+          "因申请海关知识产权保护措施损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=9e0a368c9315476bbb3f8bf745010dfc"
+        },
+        "因恶意提起知识产权诉讼损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=af1566ae8987475fb3ae0b0facb15e43",
+        "专利权宣告无效后返还费用纠纷": "http://openlaw.cn/search/judgement/type?causeId=1d2379fdf72b49e7baecc37eadef36b0"
+      },
+      "不正当竞争纠纷": {
+        "仿冒纠纷": {
+          "擅自使用知名商品特有名称、包装、装潢纠纷": "http://openlaw.cn/search/judgement/type?causeId=36b16c8b67114890b4c3509d016aab15",
+          "擅自使用他人企业名称、姓名纠纷": "http://openlaw.cn/search/judgement/type?causeId=842187ee82de42859dfe7559c5bcac3e",
+          "伪造、冒用产品质量标志纠纷": "http://openlaw.cn/search/judgement/type?causeId=1a07c527722f46458c982cf4b8a4f9b5",
+          "伪造产地纠纷": "http://openlaw.cn/search/judgement/type?causeId=a9e43414c39449b6ab5c5196269f8a0c"
+        },
+        "商业贿赂不正当竞争纠纷": "http://openlaw.cn/search/judgement/type?causeId=6ec58578d3e7406e874b3abaaec096f1",
+        "虚假宣传纠纷": "http://openlaw.cn/search/judgement/type?causeId=b7767d6912e3452991370ab8bf39ba33",
+        "侵害商业秘密纠纷": {
+          "侵害技术秘密纠纷": "http://openlaw.cn/search/judgement/type?causeId=2d1c9fefe66c40a3b89643bb7fe5bf9e",
+          "侵害经营秘密纠纷": "http://openlaw.cn/search/judgement/type?causeId=0e6dc50d7b014466a0109bd4cbaaee4e"
+        },
+        "低价倾销不正当竞争纠纷": "http://openlaw.cn/search/judgement/type?causeId=bdd149f68aaf4bfca344db0b1c9595aa",
+        "捆绑销售不正当竞争纠纷": "http://openlaw.cn/search/judgement/type?causeId=c460902ebf334e88b65a7f35c9d375d0",
+        "有奖销售纠纷": "http://openlaw.cn/search/judgement/type?causeId=0b6233fea16c4ade8d7e1cef02fcd487",
+        "商业诋毁纠纷": "http://openlaw.cn/search/judgement/type?causeId=282d52dfec7f4e4caec7ed72e503b1d9",
+        "串通投标不正当竞争纠纷": "http://openlaw.cn/search/judgement/type?causeId=ee2e9f139413490a96974ad0e5472caf"
+      },
+      "垄断纠纷": {
+        "垄断协议纠纷": {
+          "横向垄断协议纠纷": "http://openlaw.cn/search/judgement/type?causeId=366ac98bbb67451aa74403f2e641c6a0",
+          "纵向垄断协议纠纷": "http://openlaw.cn/search/judgement/type?causeId=523578efaf6d44c39cc399e4af8470ff"
+        },
+        "滥用市场支配地位纠纷": {
+          "垄断定价纠纷": "http://openlaw.cn/search/judgement/type?causeId=bee4ff67b2ec4ff1b94451e5c3643a43",
+          "掠夺定价纠纷": "http://openlaw.cn/search/judgement/type?causeId=3a23621bdef8480b8d074238ffea3b7c",
+          "拒绝交易纠纷": "http://openlaw.cn/search/judgement/type?causeId=d8e04714ee404b89876f52a3065cbb52",
+          "限定交易纠纷": "http://openlaw.cn/search/judgement/type?causeId=645f3674b53b4d3c9c18a6f221017b9e",
+          "捆绑交易纠纷": "http://openlaw.cn/search/judgement/type?causeId=82dc7e22be95470186564867419e29a4",
+          "差别待遇纠纷": "http://openlaw.cn/search/judgement/type?causeId=3cedcaa4478249d59f9ff4b5a5c076c2"
+        },
+        "经营者集中纠纷": "http://openlaw.cn/search/judgement/type?causeId=6b7d2bd0dc4a4d5c88b052b4fa1f6c32"
+      }
+    },
+    "劳动争议、人事争议": {
+      "劳动争议": {
+        "劳动合同纠纷": {
+          "确认劳动关系纠纷": "http://openlaw.cn/search/judgement/type?causeId=fbd72df995d5472e99554006012ecbf6",
+          "集体合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=95142856fd7741f0a368dff4322dc262",
+          "劳务派遣合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=928df1072be249edbfec434e73fa5013",
+          "非全日制用工纠纷": "http://openlaw.cn/search/judgement/type?causeId=afe9955e5e93449db07266c5ade17203",
+          "追索劳动报酬纠纷": "http://openlaw.cn/search/judgement/type?causeId=e20c8cd866ca453d87eebdfc5e10a3f6",
+          "经济补偿金纠纷": "http://openlaw.cn/search/judgement/type?causeId=939840a40b8e4481a3fcbca381b116d8",
+          "竞业限制纠纷": "http://openlaw.cn/search/judgement/type?causeId=3f60f79851064d53b86d84da977baf98"
+        },
+        "社会保险纠纷": {
+          "养老保险待遇纠纷": "http://openlaw.cn/search/judgement/type?causeId=cff222d29bf84fe28ae6fbd875a07e02",
+          "工伤保险待遇纠纷": "http://openlaw.cn/search/judgement/type?causeId=d72fcb9e71dd45e3876ba7bf2f2ea719",
+          "医疗保险待遇纠纷": "http://openlaw.cn/search/judgement/type?causeId=2d41a6a8c2144d9ba183f3d8be2d0962",
+          "生育保险待遇纠纷": "http://openlaw.cn/search/judgement/type?causeId=28c8499091684f5f920436f43e40418a",
+          "失业保险待遇纠纷": "http://openlaw.cn/search/judgement/type?causeId=4ae19a41624d42768da737a8bef2ac0e"
+        },
+        "福利待遇纠纷": "http://openlaw.cn/search/judgement/type?causeId=9a4a513591a54942a346a42779a068be"
+      },
+      "人事争议": {
+        "辞职争议": "http://openlaw.cn/search/judgement/type?causeId=a6641e028d0f487cbbb6cccc0954df7c",
+        "辞退争议": "http://openlaw.cn/search/judgement/type?causeId=139a8bf5c82a4e0d99c0da8dcde24e08",
+        "聘用合同争议": "http://openlaw.cn/search/judgement/type?causeId=3215e083f55f4225b1a2a6b75d2e31d2",
+        "人事争议": "http://openlaw.cn/search/judgement/type?causeId=540b7373ae10411fa2381a3f30aae869"
+      }
+    },
+    "海事海商纠纷": {
+      "船舶碰撞损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=89eff46735aa48d98458726420154f30",
+      "船舶触碰损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=8d36a8930ef54bdabdf670ad2951575d",
+      "船舶损坏空中设施、水下设施损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=04e2ca4f1a244f1eb79eeead4d3aa461",
+      "船舶污染损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=d22888b279de49a48370931bf9ceec10",
+      "海上、通海水域污染损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=d9689640489f4715823c1ed73eca6d61",
+      "海上、通海水域养殖损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=3de65d42f93e4253812e134fd373b6b7",
+      "海上、通海水域财产损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=ecdc10fc61fc4d029d0c86989059cac7",
+      "海上、通海水域人身损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=758963cf2d6a4339bac00e0d59ef3862",
+      "非法留置船舶、船载货物、船用燃油、船用物料损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=a3f86e63170c4720815530a6c29d635f",
+      "海上、通海水域货物运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=6b774aa68a1b4cdca2e7c505f44bafbc",
+      "海上、通海水域旅客运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=ec59b02d00a24f41b775cef9f6d86db2",
+      "海上、通海水域行李运输合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=90b1a57211b34b3586452f139b750cbf",
+      "船舶经营管理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=4da2eb7041ff40e3a71804f6adbcd2d2",
+      "船舶买卖合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=bf3dc8daaf1d4a7b8ddcf9081ce9f401",
+      "船舶建造合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=8b1b3f6ce61d4d929d682818eb819a0d",
+      "船舶修理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=d8eae207583b45f49af4b67cafd00b31",
+      "船舶改建合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=02242d375223425084e59732e1ee2b17",
+      "船舶拆解合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=bb4032e7e89540539778a093a05e6ee0",
+      "船舶抵押合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=1a641ccc382646a8a7c92312e7378875",
+      "航次租船合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=dddeafaf79ca4c42af2f8debdc1df49f",
+      "船舶租用合同纠纷": {
+        "定期租船合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=8000375308fb4565b4adad204cb22998",
+        "光船租赁合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=03753b58869046288b9ea13b7268574a"
+      },
+      "船舶融资租赁合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=986da4197dea419cb9a3fa5d4da25d1f",
+      "海上、通海水域运输船舶承包合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=2359290daf824bfe81c367818aedf28f",
+      "渔船承包合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=c0c05e72438b451b906b8639f065ebec",
+      "船舶属具租赁合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=132957588f294872a38220e602559d2a",
+      "船舶属具保管合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=d511b29a51ce41c2b032c84d23281d73",
+      "海运集装箱租赁合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=855803f6bd9f4973803659b456e85056",
+      "海运集装箱保管合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=b215881b826742628bff5d50ef30c43a",
+      "港口货物保管合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=82ac1ef4b189465885b8eee6af52b4c5",
+      "船舶代理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=f7616f8e4ad445ad88f416648a4ebe26",
+      "海上、通海水域货运代理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=5243f293e8e946a6aa617823bd79aeea",
+      "理货合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=12324d1bbf444f7b85a81ed817ebbabe",
+      "船舶物料和备品供应合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=3d1b3ce6f8a84a5688365f7c8be6700e",
+      "船员劳务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=7facb3cfcd08464b867158043e690aa2",
+      "海难救助合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=f62996547ebe42e8a74022a4558771b6",
+      "海上、通海水域打捞合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=dfb14423f20c44969eb8aad465c3b3da",
+      "海上、通海水域拖航合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=3348c984348f4cd3ac8ae99bac5f4e8f",
+      "海上、通海水域保险合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=3f9f7e815bee481ebbfe6225b32f5598",
+      "海上、通海水域保赔合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=9d93c4e753da44b08a234f72947260d1",
+      "海上、通海水域运输联营合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=e1e7380a8fb549078d725175fea747c1",
+      "船舶营运借款合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=4551f1a8e3ba49459d6959d95f2692de",
+      "海事担保合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=6490d88cf6ef45d3adc62f3896e66d57",
+      "航道、港口疏浚合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=97679f1a9dca46eaa8b986ba10095232",
+      "船坞、码头建造合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=567e85dacfe447c78420ae008dbca17d",
+      "船舶检验合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=3c388e92b6f644008b3dafbf45513aed",
+      "海事请求担保纠纷": "http://openlaw.cn/search/judgement/type?causeId=338a33caf79a462492ac25f5b79d0cff",
+      "海上、通海水域运输重大责任事故责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=a3d5978d7d2747a7a0e6f5e87606f2df",
+      "港口作业重大责任事故责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=a52fde7c344a4702bec91e0e0903c1e9",
+      "港口作业纠纷": "http://openlaw.cn/search/judgement/type?causeId=fbc5bb589db2499893fee839d66061bc",
+      "共同海损纠纷": "http://openlaw.cn/search/judgement/type?causeId=0848c4c76ae64a5e9c958e9bfc1585ac",
+      "海洋开发利用纠纷": "http://openlaw.cn/search/judgement/type?causeId=aab33f08aadf43bfbaedf6465a61e80e",
+      "船舶共有纠纷": "http://openlaw.cn/search/judgement/type?causeId=a1bb71654fa34bbc94281072b8a9821f",
+      "船舶权属纠纷": "http://openlaw.cn/search/judgement/type?causeId=71ecd1de9a1e4e958dcb28418248c8fa",
+      "海运欺诈纠纷": "http://openlaw.cn/search/judgement/type?causeId=4d93254a288147ed85a113fed045bedf",
+      "海事债权确权纠纷": "http://openlaw.cn/search/judgement/type?causeId=f5dae38ef7df49668383e23b015ca28c",
+      "海事海商纠纷": "http://openlaw.cn/search/judgement/type?causeId=3e0ab29550b046c4843f6aa784a4a5cc"
+    },
+    "与公司、证券、保险、票据等有关的民事纠纷": {
+      "与企业有关的纠纷": {
+        "企业出资人权益确认纠纷": "http://openlaw.cn/search/judgement/type?causeId=c4a38713a9784133bc08e7d84071eb74",
+        "侵害企业出资人权益纠纷": "http://openlaw.cn/search/judgement/type?causeId=bf1ec5fa92b34bca9127819fc1f7d48b",
+        "企业公司制改造合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=10f518104a3647e08a395fb783724b94",
+        "企业股份合作制改造合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=d8f0ff836ab24545b49e114c3b6ba474",
+        "企业债权转股权合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=8264c14c1d8847fd8589932620bb295a",
+        "企业分立合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=a31196da0c034341a54f561573b68f17",
+        "企业租赁经营合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=3aebb6f2debd464687ef295599d7b2f1",
+        "企业出售合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=dc8caa8d529b47a0ba86d1ee8ef795aa",
+        "挂靠经营合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=316f28157087495bbfdd3865cbca5d50",
+        "企业兼并合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=93174235220248b2bcac7ecae7efdd1e",
+        "联营合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=b76aaeabe25a4ea4bea4e498ea840b03",
+        "企业承包经营合同纠纷": {
+          "中外合资经营企业承包经营合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=4a906da95adf4f59aeb07548e56ebb3a",
+          "中外合作经营企业承包经营合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=0d4e71fe7e7043168d42d70d6a96ce83",
+          "外商独资企业承包经营合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=48dc89b5bdb14ada9d6cc37c359fc16e",
+          "乡镇企业承包经营合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=ea7e691ef2ce4c7cb7ab1f94ccefb6c5"
+        },
+        "中外合资经营企业合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=6d6699d6380f41629ccdb33e4667e453",
+        "中外合作经营企业合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=a93168c340744972846996c6c2d433dc"
+      },
+      "与公司有关的纠纷": {
+        "股东资格确认纠纷": "http://openlaw.cn/search/judgement/type?causeId=d611c53bab9e433b9c1542fdb32e2328",
+        "股东名册记载纠纷": "http://openlaw.cn/search/judgement/type?causeId=35019144b4c04c0a9efa6aeeadd81da4",
+        "请求变更公司登记纠纷": "http://openlaw.cn/search/judgement/type?causeId=0c07d17f9cfa4c4e87ca1a4101a8a021",
+        "股东出资纠纷": "http://openlaw.cn/search/judgement/type?causeId=1e67a2e672a54ce08fdefdb6f31a1d33",
+        "新增资本认购纠纷": "http://openlaw.cn/search/judgement/type?causeId=aa68e5c821c54947adcbbf725c5449ce",
+        "股东知情权纠纷": "http://openlaw.cn/search/judgement/type?causeId=2796e84d745843adb1648dedc4b98e8c",
+        "请求公司收购股份纠纷": "http://openlaw.cn/search/judgement/type?causeId=c0ebbaae37e0431b90eb4fad2e7c93e1",
+        "股权转让纠纷": "http://openlaw.cn/search/judgement/type?causeId=79c73e76ed444529b8ee1ed69c2fb7e2",
+        "公司决议纠纷": {
+          "公司决议效力确认纠纷": "http://openlaw.cn/search/judgement/type?causeId=d0bf1056b76947528f44ccbb8d4c0ee0",
+          "公司决议撤销纠纷": "http://openlaw.cn/search/judgement/type?causeId=be3be76b0e0945068f53427fa24ae4f8"
+        },
+        "公司设立纠纷": "http://openlaw.cn/search/judgement/type?causeId=fdfd1e5abbb1423980258ba6a4d5a03e",
+        "公司证照返还纠纷": "http://openlaw.cn/search/judgement/type?causeId=311aa49c878142c484e8b4f1b46b0988",
+        "发起人责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=e8fb09a70b6d4ae3b18e68bcc07d3b97",
+        "公司盈余分配纠纷": "http://openlaw.cn/search/judgement/type?causeId=148e3febed05424dbec29fc58cf8d984",
+        "损害股东利益责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=ac9b3427adf5426386857cf48e5e5a71",
+        "损害公司利益责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=e46cc6fa3c944edaa775429c3ef96a34",
+        "股东损害公司债权人利益责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=a05b81f2483d42849bf919a351688376",
+        "公司关联交易损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=6fad0a543bd24f34bc7e47184eed6244",
+        "公司合并纠纷": "http://openlaw.cn/search/judgement/type?causeId=409829c351424e71ba14966576f19ebd",
+        "公司分立纠纷": "http://openlaw.cn/search/judgement/type?causeId=52e63aa6292341db8d192778914a9c9a",
+        "公司减资纠纷": "http://openlaw.cn/search/judgement/type?causeId=2dc513bbfc664de79f6258b9726fee7d",
+        "公司增资纠纷": "http://openlaw.cn/search/judgement/type?causeId=33c350ff277744d78d814fb5c0c133ea",
+        "公司解散纠纷": "http://openlaw.cn/search/judgement/type?causeId=90126f741074497b930320a791659556",
+        "申请公司清算": "http://openlaw.cn/search/judgement/type?causeId=b8955d49d2e24eb0a9c1998e56a3e0a0",
+        "清算责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=76c676e5975446ca85cbc26ca65603ea",
+        "上市公司收购纠纷": "http://openlaw.cn/search/judgement/type?causeId=0de7d621bc2242c48261639eb8f74788"
+      },
+      "合伙企业纠纷": {
+        "入伙纠纷": "http://openlaw.cn/search/judgement/type?causeId=457553643a4e464a819f454b794a8de3",
+        "退伙纠纷": "http://openlaw.cn/search/judgement/type?causeId=fd669cec258c440990905cf0b6b4f144",
+        "合伙企业财产份额转让纠纷": "http://openlaw.cn/search/judgement/type?causeId=d51cf3192ef644608f644b575873718a"
+      },
+      "与破产有关的纠纷": {
+        "申请破产清算": "http://openlaw.cn/search/judgement/type?causeId=bb0be4f4943a4ff2a8ac43bde8f5f244",
+        "申请破产重整": "http://openlaw.cn/search/judgement/type?causeId=4dd773e260274a26b2959a0cec6d2027",
+        "申请破产和解": "http://openlaw.cn/search/judgement/type?causeId=14e9a6d0dedd4a8fb8f67f8311369f60",
+        "请求撤销个别清偿行为纠纷": "http://openlaw.cn/search/judgement/type?causeId=94eb4a28a5354770837e103a2ff84ce6",
+        "请求确认债务人行为无效纠纷": "http://openlaw.cn/search/judgement/type?causeId=d1c8e2aa230b4736956471a827b8d085",
+        "对外追收债权纠纷": "http://openlaw.cn/search/judgement/type?causeId=349ca93147144ad997f5b2f465131222",
+        "追收未缴出资纠纷": "http://openlaw.cn/search/judgement/type?causeId=7c5bc9fd846742febfaa418914f60929",
+        "追收抽逃出资纠纷": "http://openlaw.cn/search/judgement/type?causeId=655cb1b29aec4cc083f103f10270b47d",
+        "追收非正常收入纠纷": "http://openlaw.cn/search/judgement/type?causeId=12283c0cb0be425bac5089f73cb5af06",
+        "破产债权确认纠纷": {
+          "职工破产债权确认纠纷": "http://openlaw.cn/search/judgement/type?causeId=d6bebf0650454456ae6dd6a1bc13458f",
+          "普通破产债权确认纠纷": "http://openlaw.cn/search/judgement/type?causeId=26ca75f04e3144e09f28ce091ff893e9"
+        },
+        "取回权纠纷": {
+          "一般取回权纠纷": "http://openlaw.cn/search/judgement/type?causeId=c9234f8326ec48ca9a3503e581e7b420",
+          "出卖人取回权纠纷": "http://openlaw.cn/search/judgement/type?causeId=d4922916666348f49ea065bc5647c797"
+        },
+        "破产抵销权纠纷": "http://openlaw.cn/search/judgement/type?causeId=0d5222d849bc481890838710a958e079",
+        "别除权纠纷": "http://openlaw.cn/search/judgement/type?causeId=e010ed17a02b4969907acc96b23760ed",
+        "破产撤销权纠纷": "http://openlaw.cn/search/judgement/type?causeId=b59da00a2ac14c1fadec958e46e024bb",
+        "损害债务人利益赔偿纠纷": "http://openlaw.cn/search/judgement/type?causeId=48006ffc8676411496c049cb800169ff",
+        "管理人责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=f86da6c85858429f933e362ef696c8f4"
+      },
+      "证券纠纷": {
+        "证券权利确认纠纷": {
+          "股票权利确认纠纷": "http://openlaw.cn/search/judgement/type?causeId=ce0f7793871a47a4a9fd217b6427be29",
+          "公司债券权利确认纠纷": "http://openlaw.cn/search/judgement/type?causeId=0341e4c38ec44e0faa36b74f9e209daf",
+          "国债权利确认纠纷": "http://openlaw.cn/search/judgement/type?causeId=8b261f62b00945418286d33fa1304e5f",
+          "证券投资基金权利确认纠纷": "http://openlaw.cn/search/judgement/type?causeId=61bd0450c5b3449087d1dbdb4166fcf5"
+        },
+        "证券交易合同纠纷": {
+          "股票交易纠纷": "http://openlaw.cn/search/judgement/type?causeId=aef238392f0d4df19f1d35e94aad0de8",
+          "公司债券交易纠纷": "http://openlaw.cn/search/judgement/type?causeId=aa4f922a51344f3e8ff79ec83a59f77f",
+          "国债交易纠纷": "http://openlaw.cn/search/judgement/type?causeId=d28ce66fa0044315bd2c2397c92117a9",
+          "证券投资基金交易纠纷": "http://openlaw.cn/search/judgement/type?causeId=14f6a6b02b784e2383b8b2f8f2783b46"
+        },
+        "金融衍生品种交易纠纷": "http://openlaw.cn/search/judgement/type?causeId=7b2afd92779548f1a4a7dfedb21e63a4",
+        "证券承销合同纠纷": {
+          "证券代销合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=9cf4e0468dbe4d8eb5a9a2b6969eb534",
+          "证券包销合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=b3fa125a8a284a909595b41413571167"
+        },
+        "证券投资咨询纠纷": "http://openlaw.cn/search/judgement/type?causeId=7e59d08d993b412d80baff81e9d64efc",
+        "证券资信评级服务合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=e8ca30c4050b40119120782950b6becf",
+        "证券回购合同纠纷": {
+          "股票回购合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=eede671f434f44778849ed08700748db",
+          "国债回购合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=92256b32939242a8a258d63e42c7064f",
+          "公司债券回购合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=1f35d930f0e349ee87f9ecbe5c3a9a91",
+          "证券投资基金回购合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=5fe3f4c7f77947359ee83f35c1631035",
+          "质押式证券回购纠纷": "http://openlaw.cn/search/judgement/type?causeId=cbcc5e4706284d1ba6dc8fbeb655a42f"
+        },
+        "证券上市合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=646cf9cb5fd14732923426a400212501",
+        "证券交易代理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=199651b35cb8445fbcbc20c3393c23ac",
+        "证券上市保荐合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=177e6a453e774732a3b7bd7ea39960a5",
+        "证券发行纠纷": {
+          "证券认购纠纷": "http://openlaw.cn/search/judgement/type?causeId=511814600a3e4cb7a8a88785d5a3a67a",
+          "证券发行失败纠纷": "http://openlaw.cn/search/judgement/type?causeId=91475db90d6c438ca8f21bc0c2f9897c"
+        },
+        "证券返还纠纷": "http://openlaw.cn/search/judgement/type?causeId=4839a93925d04507a44281513a94f803",
+        "证券欺诈责任纠纷": {
+          "证券内幕交易责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=7d90272c1bec47368bdb724e44f13433",
+          "操纵证券交易市场责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=6db32a60c6fb4932aeef0c37712add59",
+          "证券虚假陈述责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=0dade6e6a75240d79633e8828b2b554f",
+          "欺诈客户责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=8bd375eb75404518844293708e74eb19"
+        },
+        "证券托管纠纷": "http://openlaw.cn/search/judgement/type?causeId=be6825acbeab47b2a3fad7e905ed997f",
+        "证券登记、存管、结算纠纷": "http://openlaw.cn/search/judgement/type?causeId=b95662b481f44a1f8fa4b494399ecf38",
+        "融资融券交易纠纷": "http://openlaw.cn/search/judgement/type?causeId=cecf14aefdf348e68b4b94fff9b44813",
+        "客户交易结算资金纠纷": "http://openlaw.cn/search/judgement/type?causeId=5bc4d663fbc44cbd8708fdbfe6d8936a"
+      },
+      "期货交易纠纷": {
+        "期货经纪合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=596e95b5a0884e0db4885226e5eda831",
+        "期货透支交易纠纷": "http://openlaw.cn/search/judgement/type?causeId=5db7c29500044ae98210e1125fa75087",
+        "期货强行平仓纠纷": "http://openlaw.cn/search/judgement/type?causeId=63b4cf124d604f9babfd5cd69a918593",
+        "期货实物交割纠纷": "http://openlaw.cn/search/judgement/type?causeId=69e350dcba334cba9a6c7a66e05cb796",
+        "期货保证合约纠纷": "http://openlaw.cn/search/judgement/type?causeId=40ca59326fc54ca8a7b8d1a5a085071e",
+        "期货交易代理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=d5714ad808654f68b575483b8651d0aa",
+        "侵占期货交易保证金纠纷": "http://openlaw.cn/search/judgement/type?causeId=eb30d1b2136241eb87bbc4a4690f6095",
+        "期货欺诈责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=1df53f0ed17b4b9a81724138465f51bd",
+        "操纵期货交易市场责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=4758bbbfac15448eaf5a4500a6d3341a",
+        "期货内幕交易责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=62678a3c2c6e4929afc7a689a131733d",
+        "期货虚假信息责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=67a057f0dff549899e4b10e2cf63283d"
+      },
+      "信托纠纷": {
+        "民事信托纠纷": "http://openlaw.cn/search/judgement/type?causeId=15135f819c844f54ad4db53f90d351cd",
+        "营业信托纠纷": "http://openlaw.cn/search/judgement/type?causeId=1374174c19dc4e15b829a48f66256cf2",
+        "公益信托纠纷": "http://openlaw.cn/search/judgement/type?causeId=1ab6668931d847f6a0444a22fe3f935c"
+      },
+      "保险纠纷": {
+        "财产保险合同纠纷": {
+          "财产损失保险合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=b121b05c3660439d8e46c8cd867a5f27",
+          "责任保险合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=6f4125c06e90414db93be4a84e2b98b4",
+          "信用保险合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=fc4b19e3adfc4191a44f49ebe4fada65",
+          "保证保险合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=2a880a2f5f244c029da8ed90a488dbb4",
+          "保险人代位求偿权纠纷": "http://openlaw.cn/search/judgement/type?causeId=365e1df2a96440d8873417dbabb2f49b"
+        },
+        "人身保险合同纠纷": {
+          "人寿保险合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=fbf4b1c3ecbe445ebbe29e76e6f0febe",
+          "意外伤害保险合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=0c06dbd39c42484da67d311411de69e0",
+          "健康保险合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=164d14390282481fa1de196e269dc815"
+        },
+        "再保险合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=78eed4a5df674f1a9e03b0dc6abed7fd",
+        "保险经纪合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=74940584c3a74db399aa39075416efba",
+        "保险代理合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=ed960753ec3e4e5d827c51a3fe96ccf1",
+        "进出口信用保险合同纠纷": "http://openlaw.cn/search/judgement/type?causeId=fdf6f21ed0674803a45294520f2c6d82",
+        "保险费纠纷": "http://openlaw.cn/search/judgement/type?causeId=2d3b3a1de2824104acb36093bd6a1b7a"
+      },
+      "票据纠纷": {
+        "票据付款请求权纠纷": "http://openlaw.cn/search/judgement/type?causeId=621c79dc31794a1284f189d53430b043",
+        "票据追索权纠纷": "http://openlaw.cn/search/judgement/type?causeId=07a873d81c9a4221b5c6683cfd0e6736",
+        "票据交付请求权纠纷": "http://openlaw.cn/search/judgement/type?causeId=0fb298301eec49c1be1374a17dbdf946",
+        "票据返还请求权纠纷": "http://openlaw.cn/search/judgement/type?causeId=94149267435642ea906f5686908d3566",
+        "票据损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=0c42ffbd03c24d6aa15163d164561385",
+        "票据利益返还请求权纠纷": "http://openlaw.cn/search/judgement/type?causeId=ca0f190dc419406e92f6a84f7f9d05e7",
+        "汇票回单签发请求权纠纷": "http://openlaw.cn/search/judgement/type?causeId=3b7d66343c8e4ead8c6e9f7effe01f88",
+        "票据保证纠纷": "http://openlaw.cn/search/judgement/type?causeId=458f30b0181f4412add5c4e17fafce9f",
+        "确认票据无效纠纷": "http://openlaw.cn/search/judgement/type?causeId=eb41d236d72244c1a33dc93374ac0837",
+        "票据代理纠纷": "http://openlaw.cn/search/judgement/type?causeId=436a9ff2ae954576a1e884dfae590de0",
+        "票据回购纠纷": "http://openlaw.cn/search/judgement/type?causeId=2e4b6d10bbe94f9b9b13396411bfcc9b"
+      },
+      "信用证纠纷": {
+        "委托开立信用证纠纷": "http://openlaw.cn/search/judgement/type?causeId=bc5e5c6996f6401282c711aea56db421",
+        "信用证开证纠纷": "http://openlaw.cn/search/judgement/type?causeId=60bc686dc2054756b00b34338b1bd9f6",
+        "信用证议付纠纷": "http://openlaw.cn/search/judgement/type?causeId=b97649efced648e69edb1459c96d65c9",
+        "信用证欺诈纠纷": "http://openlaw.cn/search/judgement/type?causeId=04af5fd95e6f40f2a35f3f7774733374",
+        "信用证融资纠纷": "http://openlaw.cn/search/judgement/type?causeId=280901ad34b54f76aba8228faa7bdd9e",
+        "信用证转让纠纷": "http://openlaw.cn/search/judgement/type?causeId=107a798ffdf14270801186810e5d699e"
+      }
+    },
+    "侵权责任纠纷": {
+      "教育机构责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=f9c8470f80f245d9b068297c3f1b4c22",
+      "产品责任纠纷": {
+        "产品生产者责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=42c207f048cd498abc018386903b9224",
+        "产品销售者责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=1263bb538b774a3b8756f2c9861563fe",
+        "产品运输者责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=b8e90c78da204b74a1dd4249a9a8e762",
+        "产品仓储者责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=f7783d96083743b3b1b31fbd191989f0"
+      },
+      "机动车交通事故责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=a2e630b1954d4cd9ad99623e8aa5393b",
+      "医疗损害责任纠纷": {
+        "侵害患者知情同意权责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=1bd579af65824b13825007fd111de7cd",
+        "医疗产品责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=aaf3420a5dee4a84921efca019cc87e9"
+      },
+      "监护人责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=6b1f861d3c814e6f8b325c92de308df5",
+      "环境污染责任纠纷": {
+        "大气污染责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=b197f7ab7e4046ca9c6cc89e4979185e",
+        "水污染责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=d72c960393564cc0bae454bc08de981a",
+        "噪声污染责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=f535ada6d35d47bb91d15d6e8e15942e",
+        "放射性污染责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=d9328ffb947a43449f6ad4016745a6fc",
+        "土壤污染责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=737189da233f45248cfdecb26a0f2746",
+        "电子废物污染责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=ff3a187192f4420d99c86247a5c128e2",
+        "固体废物污染责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=c4f01b68b2b1421fa45c6be3d63752b7"
+      },
+      "高度危险责任纠纷": {
+        "民用核设施损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=44b661d5ef0344a3b962279db5fab2c3",
+        "民用航空器损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=5b3499680418460a936a6c1802eb31a2",
+        "占有、使用高度危险物损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=086ec69f7b5f46949e5ba5b83435b8c3",
+        "高度危险活动损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=eb861ab1ef404bf48e2aa076af8e98ca",
+        "遗失、抛弃高度危险物损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=6533e920894847859cfdacbd1765f8a5",
+        "非法占有高度危险物损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=7759ccffb0e64e20916c043b98935393"
+      },
+      "用人单位责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=825200583f124d9e930f55f7a39db5c8",
+      "饲养动物损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=228ac58e151640cd8e8aea8c665b557e",
+      "物件损害责任纠纷": {
+        "物件脱落、坠落损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=c86bbd17dfd14801aa4b5aa083df12b8",
+        "建筑物、构筑物倒塌损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=617db18167394d0599de4ddbe913498f",
+        "不明抛掷物、坠落物损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=124c7cf13f7046b6831cc4db7bac53ef",
+        "堆放物倒塌致害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=4eb0db5c84ef496e9b316d0987bb58bf",
+        "公共道路妨碍通行损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=7e1b93b14ab443a7a518346d69e76491",
+        "林木折断损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=aad7d0fde3254c0788781f8522e0fbbd",
+        "地面施工、地下设施损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=0b381952cb30470c98a153e5b352d66e"
+      },
+      "劳务派遣工作人员侵权责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=35157309f39248d5b3c52b3e25d0397e",
+      "触电人身损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=b89b9f5ae63648199a205337cec68af9",
+      "义务帮工人受害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=48a918d042e248018d4fb8dcab97de86",
+      "见义勇为人受害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=03e1ab8d46ac42fa922c860ff1b400fe",
+      "公证损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=e971738814964664aaee1c123f2a5684",
+      "防卫过当损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=db2040413994493c9597fad96db86c2e",
+      "提供劳务者致害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=7228c44313b040b68449c15542b50903",
+      "紧急避险损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=5c395b16ddd6488f9659fd398e9ac064",
+      "驻香港、澳门特别行政区军人执行职务侵权责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=4c7f2077f73042619e31b9160a72b6b5",
+      "铁路运输损害责任纠纷": {
+        "铁路运输人身损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=be078b9087f144a8861e82cc5618fa97",
+        "铁路运输财产损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=537dabd224584c7cb74a49cdec27c1de"
+      },
+      "水上运输损害责任纠纷": {
+        "水上运输人身损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=082eb2b6d793406ba4a8959e8ce2fd84",
+        "水上运输财产损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=9bd45c21da064892b3ea8de4952bf1a3"
+      },
+      "航空运输损害责任纠纷": {
+        "航空运输人身损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=f46e838257b24ced9c3e76a507f528b4",
+        "航空运输财产损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=220924f0b97c484fa8b4a3367657f598"
+      },
+      "提供劳务者受害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=3121831afdbf45628d9e986e0bab15dc",
+      "因申请诉前财产保全损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=d72b49775da14887a56a7167b23385d7",
+      "因申请诉前证据保全损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=1d00d40a42a7427089e8d52e88eb1e5f",
+      "因申请诉中财产保全损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=b062ed54f57b40e8b9d3a546e22dbd66",
+      "因申请诉中证据保全损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=359edd60eeca45619b8b8dbda34c105d",
+      "因申请先予执行损害责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=cc0143e6ac474215bd48986db79d9614",
+      "网络侵权责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=2a14c3554ecd474087bd513725046033",
+      "违反安全保障义务责任纠纷": {
+        "群众性活动组织者责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=16c231c07d27482cab5c04917e702d04",
+        "公共场所管理人责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=2277218978964c3499fd9beebd2e7ba5"
+      },
+      "侵权责任纠纷": "http://openlaw.cn/search/judgement/type?causeId=d12335b2bac34b43ba0934014dcc13f3"
+    },
+    "适用特殊程序案件案由": {
+      "选民资格案件": {
+        "申请确定选民资格": "http://openlaw.cn/search/judgement/type?causeId=7ef6cb1a8d4641499930b710290cc105"
+      },
+      "宣告失踪、宣告死亡案件": {
+        "申请宣告公民失踪": "http://openlaw.cn/search/judgement/type?causeId=64eff0881dfa4f2d87f25ae5ec1cbc90",
+        "申请撤销宣告失踪": "http://openlaw.cn/search/judgement/type?causeId=b2f8f18c30e44eafb1954ab990f45b13",
+        "申请为失踪人财产指定、变更代管人": "http://openlaw.cn/search/judgement/type?causeId=d5503e0a19264ae1adcaf2f6c954dbe0",
+        "失踪人债务支付纠纷": "http://openlaw.cn/search/judgement/type?causeId=661b7624e8574f96aaeb6aedf7cdd291",
+        "申请宣告公民死亡": "http://openlaw.cn/search/judgement/type?causeId=6bb056627bbc4c628e0c64136c699fa6",
+        "申请撤销宣告公民死亡": "http://openlaw.cn/search/judgement/type?causeId=62561a22fd63478889255e22caa5989d",
+        "被撤销死亡宣告人请求返还财产纠纷": "http://openlaw.cn/search/judgement/type?causeId=70e6d4a3227040e396489c8c5f5c85a0"
+      },
+      "认定公民无民事行为能力、限制民事行为能力案件": {
+        "申请宣告公民无民事行为能力": "http://openlaw.cn/search/judgement/type?causeId=0486bed9e6b14c3b82d3f267c8d36f5a",
+        "申请宣告公民限制民事行为能力": "http://openlaw.cn/search/judgement/type?causeId=051046f895ab4a55af2d526dcfba289e",
+        "申请宣告公民恢复限制民事行为能力": "http://openlaw.cn/search/judgement/type?causeId=a700e4e9543d4e8292fd9f31686feab1",
+        "申请宣告公民恢复完全民事行为能力": "http://openlaw.cn/search/judgement/type?causeId=6912dde27c124bc3b8f1d8147da0fa64"
+      },
+      "认定财产无主案件": {
+        "申请认定财产无主": "http://openlaw.cn/search/judgement/type?causeId=00f38a07289640ccaf5928865e4b691b",
+        "申请撤销认定财产无主": "http://openlaw.cn/search/judgement/type?causeId=28ccb97507dd4fa586209eb2245e9e66"
+      },
+      "监护权特别程序案件": {
+        "申请确定监护人": "http://openlaw.cn/search/judgement/type?causeId=248d31df19fe4a0bad05c8a663fa9aef",
+        "申请变更监护人": "http://openlaw.cn/search/judgement/type?causeId=266f1e1b05ca44d49793b0a634ae8f7a",
+        "申请撤销监护人资格": "http://openlaw.cn/search/judgement/type?causeId=8533e9a2db2b4668a30aaaf6eabaa8f2"
+      },
+      "督促程序案件": {
+        "申请支付令": "http://openlaw.cn/search/judgement/type?causeId=4d5bc1c3fdcc49abaa089c8e7be0d7b9"
+      },
+      "公示催告程序案件": {
+        "申请公示催告": "http://openlaw.cn/search/judgement/type?causeId=9d736ec48d3f4336be69d1ebeb5fabd0"
+      },
+      "申请诉前停止侵害知识产权案件": {
+        "申请诉前停止侵害专利权": "http://openlaw.cn/search/judgement/type?causeId=5018718aaf9442cab3d3ce4ef142afbb",
+        "申请诉前停止侵害注册商标专用权": "http://openlaw.cn/search/judgement/type?causeId=af4f09ae56f04506b5c5447381f3ffbb",
+        "申请诉前停止侵害著作权": "http://openlaw.cn/search/judgement/type?causeId=c3816265b9dd4529b507c299a6f75966",
+        "申请诉前停止侵害植物新品种权": "http://openlaw.cn/search/judgement/type?causeId=5515c573f614420f88b414f74591c55f"
+      },
+      "申请保全案件": {
+        "申请诉前财产保全": "http://openlaw.cn/search/judgement/type?causeId=e025dd62c31f45479955d3bf33f59323",
+        "申请诉中财产保全": "http://openlaw.cn/search/judgement/type?causeId=3c5caf7ca49144b7916e1819f32cd7c8",
+        "申请诉前证据保全": "http://openlaw.cn/search/judgement/type?causeId=74fda8428a7b4c79a3e142cd6b665813",
+        "申请诉中证据保全": "http://openlaw.cn/search/judgement/type?causeId=c7da36a730d74fa5aa59c71d0719e941",
+        "仲裁程序中的财产保全": "http://openlaw.cn/search/judgement/type?causeId=3a95b9ad892c49259aa74f52fe29c1d0",
+        "仲裁程序中的证据保全": "http://openlaw.cn/search/judgement/type?causeId=212f9ab7ade24ff5aa5fda2a9cc3599b",
+        "申请中止支付信用证项下款项": "http://openlaw.cn/search/judgement/type?causeId=768c2eca8c8c4fe9b9d9610fbad96fb3",
+        "申请中止支付保函项下款项": "http://openlaw.cn/search/judgement/type?causeId=e625999e9b92455187ed0ba0a3019a93"
+      },
+      "仲裁程序案件": {
+        "申请确认仲裁协议效力": "http://openlaw.cn/search/judgement/type?causeId=9ba9d20c85024416b04f8ac7dcf52fb5",
+        "申请撤销仲裁裁决": "http://openlaw.cn/search/judgement/type?causeId=3f1d1e970ccc4166bbada81549da0258"
+      },
+      "海事诉讼特别程序案件": {
+        "申请海事请求保全": {
+          "申请扣押船舶": "http://openlaw.cn/search/judgement/type?causeId=df60506129664a359e1f6eee484faafa",
+          "申请拍卖扣押船舶": "http://openlaw.cn/search/judgement/type?causeId=4abc576321664d729b54ce3df8961eee",
+          "申请扣押船载货物": "http://openlaw.cn/search/judgement/type?causeId=0373d5b74c8043b8a3490f30f0a31d6d",
+          "申请拍卖扣押船载货物": "http://openlaw.cn/search/judgement/type?causeId=9f07918c2a454df4bc0e77e65d6c7316",
+          "申请扣押船用燃油及船用物料": "http://openlaw.cn/search/judgement/type?causeId=a9e44abab76942298bed0248cae0419e",
+          "申请拍卖扣押船用燃油及船用物料": "http://openlaw.cn/search/judgement/type?causeId=83c960701ffc4162b2b5b1e583153597"
+        },
+        "申请海事支付令": "http://openlaw.cn/search/judgement/type?causeId=d991f373fc4849b3b121e542a0a358d6",
+        "申请海事强制令": "http://openlaw.cn/search/judgement/type?causeId=0d933c22ca324437add34cdad92444fc",
+        "申请海事证据保全": "http://openlaw.cn/search/judgement/type?causeId=a2d9652bc98e4abb94ca692dc16faf20",
+        "申请设立海事赔偿责任限制基金": "http://openlaw.cn/search/judgement/type?causeId=806a2f3479ca46058837aeb697445788",
+        "申请船舶优先权催告": "http://openlaw.cn/search/judgement/type?causeId=714c65aa4730446fbab72bc96bef1f0b",
+        "申请海事债权登记与受偿": "http://openlaw.cn/search/judgement/type?causeId=34e5c74ea2044005a1d5a0f41a43647e"
+      },
+      "申请承认与执行法院判决、仲裁裁决案件": {
+        "申请执行海事仲裁裁决": "http://openlaw.cn/search/judgement/type?causeId=ebb5e53960154ad49a43a5e7d813fc62",
+        "申请执行知识产权仲裁裁决": "http://openlaw.cn/search/judgement/type?causeId=b02f1f730602428ca886f8a75483cecd",
+        "申请执行涉外仲裁裁决": "http://openlaw.cn/search/judgement/type?causeId=ede97db81d414e73be11668e58ef77ca",
+        "申请认可和执行香港特别行政区法院民事判决": "http://openlaw.cn/search/judgement/type?causeId=0ffd2fb89d7a4ba3a33928bc821aff4e",
+        "申请认可和执行香港特别行政区仲裁裁决": "http://openlaw.cn/search/judgement/type?causeId=f9e1d469e9074393909e130c0ea2687d",
+        "申请认可和执行澳门特别行政区法院民事判决": "http://openlaw.cn/search/judgement/type?causeId=1ea34ef4353645609910e758b86c8c7b",
+        "申请认可和执行澳门特别行政区仲裁裁决": "http://openlaw.cn/search/judgement/type?causeId=8f400d4869fa46d081fa19c6c8c81082",
+        "申请认可和执行台湾地区法院民事判决": "http://openlaw.cn/search/judgement/type?causeId=1f86a61bdc104543899b8487c8444e41",
+        "申请认可和执行台湾地区仲裁裁决": "http://openlaw.cn/search/judgement/type?causeId=c59901afdc434a47a381a5dda3c3f544",
+        "申请承认和执行外国法院民事判决、裁定": "http://openlaw.cn/search/judgement/type?causeId=e3d3fbce72864549baa97dc8726cd9fe",
+        "申请承认和执行外国仲裁裁决": "http://openlaw.cn/search/judgement/type?causeId=ef8d52d71bc544b5ac2ada63e5defd4f"
+      },
+      "执行异议之诉": {
+        "案外人执行异议之诉": "http://openlaw.cn/search/judgement/type?causeId=fbf11312891545fdb62c0eab1409cb37",
+        "申请执行人执行异议之诉": "http://openlaw.cn/search/judgement/type?causeId=de4bc45925dd4810bb86ad7274d8cc1d",
+        "执行分配方案异议之诉": "http://openlaw.cn/search/judgement/type?causeId=c3e4abdd5bfe42fd8074f26f742ed01a"
+      }
+    }
+  },
+  "行政": {
+    "行政管理范围": {
+      "其他行政管理": "http://openlaw.cn/search/judgement/type?causeId=80bd33f5c6864c2ba2991994960b7cf4",
+      "乡政府": "http://openlaw.cn/search/judgement/type?causeId=be4774e7aaaa42b88d89d5fbe6848645",
+      "行政监察(监察)": "http://openlaw.cn/search/judgement/type?causeId=9d49852441e74deeb67c3d660a554b48",
+      "体育行政管理(体育)": "http://openlaw.cn/search/judgement/type?causeId=5f8fee64d9064a9dae549e10202a73e2",
+      "盐业行政管理(盐业)": "http://openlaw.cn/search/judgement/type?causeId=79bfc4c2449f45b0b08a5c29a86123a0",
+      "外资行政管理(外资管理)": "http://openlaw.cn/search/judgement/type?causeId=781ffc37e7fa4afbb5b5c8ed774b66b9",
+      "国有资产行政管理(国资)": "http://openlaw.cn/search/judgement/type?causeId=6073f5611ba140eda57a2da5cbf0e4c4",
+      "电力行政管理(电力)": "http://openlaw.cn/search/judgement/type?causeId=708f13157ffa4520b3cf8af24eaf20de",
+      "统计行政管理(统计)": "http://openlaw.cn/search/judgement/type?causeId=a21b426516024429ba64e9b368e0ec92",
+      "广播电视电影行政管理(广电)": "http://openlaw.cn/search/judgement/type?causeId=a6cfcac98c614ca0b04e688245d38aac",
+      "文化行政管理(文化)": "http://openlaw.cn/search/judgement/type?causeId=d1fcdbf896f0429d93ea7a2fec81a409",
+      "教育行政管理(教育)": "http://openlaw.cn/search/judgement/type?causeId=bfe87df5a8e345e88b2f9e598099bf59",
+      "民政行政管理(民政)": "http://openlaw.cn/search/judgement/type?causeId=44d9895251994e02837cece4798d8c4f",
+      "司法行政管理(司法行政)": "http://openlaw.cn/search/judgement/type?causeId=f665171a7e0849c6bdc4f2978275e1b5",
+      "烟草专卖行政管理(烟草专卖)": "http://openlaw.cn/search/judgement/type?causeId=6021a2decc684baa9e7b73e1e78bc94e",
+      "旅游行政管理(旅游)": "http://openlaw.cn/search/judgement/type?causeId=e807f73b6b09467189d0ac4adae3fa33",
+      "水利行政管理(水利)": "http://openlaw.cn/search/judgement/type?causeId=a9e75b0621a14555978aee6e39a83e59",
+      "经贸行政管理(内贸、外贸)": "http://openlaw.cn/search/judgement/type?causeId=ccfa21b8dfa5446db66c01b2baabb905",
+      "审计行政管理(审计)": "http://openlaw.cn/search/judgement/type?causeId=89ba51984ff94adb841053e51114bc64",
+      "劳动和社会保障行政管理(劳动、社会保障)": "http://openlaw.cn/search/judgement/type?causeId=c0eee7b7ef1c471fb2d08058c6920000",
+      "财政行政管理(财政)": "http://openlaw.cn/search/judgement/type?causeId=22e7bf13ce3045428e33dc5e381e3c1e",
+      "海关行政管理(海关)": "http://openlaw.cn/search/judgement/type?causeId=0a2b16de7fdf4c40b166c6904a0a9875",
+      "外汇行政管理(外汇)": "http://openlaw.cn/search/judgement/type?causeId=ed56b161e79541028c505b3e9d5a33b9",
+      "金融行政管理(金融)": "http://openlaw.cn/search/judgement/type?causeId=acb22ac9887f41faa2c913928c82fc83",
+      "税务行政管理(税务)": "http://openlaw.cn/search/judgement/type?causeId=265968ef94a34f29aabf5e4dd02a9b7e",
+      "新闻出版行政管理(新闻、出版)": "http://openlaw.cn/search/judgement/type?causeId=278364fc14744ad99ca710d38e6fd09d",
+      "专利行政管理(专利)": "http://openlaw.cn/search/judgement/type?causeId=ab59e8f7b2fa43f0b12e9647da8c2075",
+      "邮政行政管理(邮政)": "http://openlaw.cn/search/judgement/type?causeId=e5c73f0053724607be4caa2b43f12c2a",
+      "信息电讯行政管理(信息、电讯)": "http://openlaw.cn/search/judgement/type?causeId=110e5fe18d1c4da1b1a91fee17f1a82f",
+      "交通运输行政管理(交通)": {
+        "交通运输行政管理(交通):其他(交通)": "http://openlaw.cn/search/judgement/type?causeId=67ec2259abb5420994939c3174098319",
+        "交通运输行政管理(交通):航空行政管理(航空)": "http://openlaw.cn/search/judgement/type?causeId=ceea42c982cc40748702748b71252f94",
+        "交通运输行政管理(交通):铁路行政管理(铁路)": "http://openlaw.cn/search/judgement/type?causeId=a01da16f61094e55aa084959fde34d44",
+        "交通运输行政管理(交通):公路交通行政管理(公路)": "http://openlaw.cn/search/judgement/type?causeId=777a09f49cef4dccae3e27917f606047"
+      },
+      "环境保护行政管理(环保)": "http://openlaw.cn/search/judgement/type?causeId=a08d7257f2ae441eb2376c7da45d6034",
+      "物价行政管理(物价)": "http://openlaw.cn/search/judgement/type?causeId=aa7c8299bdcd4680a8e45d728d48ee91",
+      "农业行政管理(农业)": {
+        "农业行政管理(农业):其他(农业)": "http://openlaw.cn/search/judgement/type?causeId=15d687f91018421c827f285814541271",
+        "农业行政管理(农业):畜牧行政管理(畜牧)": "http://openlaw.cn/search/judgement/type?causeId=7dcec58655bb48cb91e8febede8efc2d",
+        "农业行政管理(农业):渔业行政管理(渔业)": "http://openlaw.cn/search/judgement/type?causeId=1899e065add648b8b58110fee9e08958"
+      },
+      "食品药品安全行政管理(食品、药品)": "http://openlaw.cn/search/judgement/type?causeId=6b2555e13d18494a83839d5a0566737b",
+      "卫生行政管理(卫生)": "http://openlaw.cn/search/judgement/type?causeId=b823a85468b3436c90ed2ddd8541e2a9",
+      "质量监督检验检疫行政管理": {
+        "质量监督检验检疫行政管理:其他(质量监督)": "http://openlaw.cn/search/judgement/type?causeId=a138bbfabf664ef599b296a0352d058c",
+        "质量监督检验检疫行政管理:检疫行政管理(检疫)": "http://openlaw.cn/search/judgement/type?causeId=2f77ea53282a4be4b628788d9d068450",
+        "质量监督检验检疫行政管理:质量检验行政管理(质量检验)": "http://openlaw.cn/search/judgement/type?causeId=7f67ed0e39ec4d829f117ed472927892",
+        "质量监督检验检疫行政管理:质量监督行政管理(质量监督)": "http://openlaw.cn/search/judgement/type?causeId=f5a7e6a17cbc41bbbfca1eedf0731ac2"
+      },
+      "商标行政管理(商标)": "http://openlaw.cn/search/judgement/type?causeId=f88857cf70df46909430fa67afd5c0fe",
+      "工商行政管理(工商)": "http://openlaw.cn/search/judgement/type?causeId=1a2a50f7504a43e4a540c4a78fcbbeff",
+      "计划生育行政管理(计划生育)": "http://openlaw.cn/search/judgement/type?causeId=df89da58e6e34c60b2064baa96ba3c47",
+      "城乡建设行政管理": {
+        "城乡建设行政管理:其他(城建)": "http://openlaw.cn/search/judgement/type?causeId=6a09d0898310446ea3713834a2af969a",
+        "城乡建设行政管理:房屋登记管理(房屋登记)": "http://openlaw.cn/search/judgement/type?causeId=a8017041f44941a3b8f38a32a941c289",
+        "城乡建设行政管理:房屋拆迁管理(拆迁)": "http://openlaw.cn/search/judgement/type?causeId=bf727182ceba43afb73b0793aaf42b2f",
+        "城乡建设行政管理:城市规划管理(规划)": "http://openlaw.cn/search/judgement/type?causeId=59cc3846c6c246bf884d168d0c26293e"
+      },
+      "资源行政管理": {
+        "资源行政管理:其他(资源)": "http://openlaw.cn/search/judgement/type?causeId=b7b4a1a894cf473c8188a4b73ae7539b",
+        "资源行政管理:能源行政管理(能源管理)": "http://openlaw.cn/search/judgement/type?causeId=499311cc7a84471592997fff662aa94a",
+        "资源行政管理:地质矿产行政管理(地矿)": "http://openlaw.cn/search/judgement/type?causeId=ac096b08f76f411cb6faab44b72582da",
+        "资源行政管理:草原行政管理(草原)": "http://openlaw.cn/search/judgement/type?causeId=bec2469a61a64437b7de72a5f95d8989",
+        "资源行政管理:林业行政管理(林业)": "http://openlaw.cn/search/judgement/type?causeId=0b61d151283e449898e865aabe71dca8",
+        "资源行政管理:土地行政管理(土地)": "http://openlaw.cn/search/judgement/type?causeId=6a2fd57a0fa7400e941d80de7cb6e244"
+      },
+      "公安行政管理": {
+        "公安行政管理:其他(公安)": "http://openlaw.cn/search/judgement/type?causeId=eabc619445b541b49c9540ef717d0d24",
+        "公安行政管理:道路交通管理(道路)": "http://openlaw.cn/search/judgement/type?causeId=dc6f651a4d7349d7905d40f75b8d4c7a",
+        "公安行政管理:消防管理(消防)": "http://openlaw.cn/search/judgement/type?causeId=adfc098b65c043a1bd2afc2d3bcb3dcd",
+        "公安行政管理:治安管理(治安)": "http://openlaw.cn/search/judgement/type?causeId=02910ac647f44b3ea14c790ba3359a47"
+      }
+    },
+    "行政行为种类": {
+      "行政处罚": "http://openlaw.cn/search/judgement/type?causeId=9227449aebd44157907fefcdef2b877f",
+      "行政强制": "http://openlaw.cn/search/judgement/type?causeId=3b5accf109614521a9989b111e4eacba",
+      "行政裁决": "http://openlaw.cn/search/judgement/type?causeId=4fc7b169bbcb4d2fa1821acc18888c90",
+      "行政确认": "http://openlaw.cn/search/judgement/type?causeId=d97aa276d40e496d9c76f86acd7eecf9",
+      "行政等级": "http://openlaw.cn/search/judgement/type?causeId=8ba031581b2d4309ba6bda287d613cbd",
+      "行政许可": "http://openlaw.cn/search/judgement/type?causeId=98fe7d38856349b9b35cdad5eceb80bf",
+      "行政批准": "http://openlaw.cn/search/judgement/type?causeId=daabc312cc5e4cc7b3e09cdf5ecda196",
+      "行政命令": "http://openlaw.cn/search/judgement/type?causeId=732fb044925346158885f859cae51f44",
+      "行政复议": "http://openlaw.cn/search/judgement/type?causeId=147124350cb045cf9525fb2066050ba9",
+      "行政撤销": "http://openlaw.cn/search/judgement/type?causeId=17ec2806c50e459ab74edacf777b21ec",
+      "行政检查": "http://openlaw.cn/search/judgement/type?causeId=ac8c29d88b2348d6ad498da12edb394a",
+      "行政合同": "http://openlaw.cn/search/judgement/type?causeId=2c1e5f8882a74292af62c2cbb6416930",
+      "行政奖励": "http://openlaw.cn/search/judgement/type?causeId=fbbdf5efbb84421c9d8a5a0e3d5c33bc",
+      "行政补偿": "http://openlaw.cn/search/judgement/type?causeId=d8e078a67eba420db539f08ebf9cfe1e",
+      "行政给付": "http://openlaw.cn/search/judgement/type?causeId=43f99acae8134403b1d8d113544c2d55",
+      "行政征用": "http://openlaw.cn/search/judgement/type?causeId=d686dd89973d4ddd8804975b042d1447",
+      "行政征收": "http://openlaw.cn/search/judgement/type?causeId=930957164871452dbaa540ba7aa9a433",
+      "行政划拨": "http://openlaw.cn/search/judgement/type?causeId=4b44cf16cc1140e08a36470e49c76b21",
+      "行政规划": "http://openlaw.cn/search/judgement/type?causeId=e565792c38044ef68ad2261ef84398eb",
+      "行政救助": "http://openlaw.cn/search/judgement/type?causeId=cc38976ed1ba4ed09a1961d211f3601c",
+      "行政协助": "http://openlaw.cn/search/judgement/type?causeId=3170c2ba9a734754aac151a52fb5d7b6",
+      "行政允诺": "http://openlaw.cn/search/judgement/type?causeId=650fa797ca6e47d89a5f14f33dfa5d04",
+      "行政监督": "http://openlaw.cn/search/judgement/type?causeId=95abf7d3f8614217ab0cc488a25347c0",
+      "其他行政行为": "http://openlaw.cn/search/judgement/type?causeId=b95a46ec9cc5425c9474ab8c02e04dfe"
+    }
+  },
+  "赔偿": {
+    "刑事赔偿": {
+      "殴打、虐待或唆使、放纵他人殴打、虐待致人伤亡赔偿": "http://openlaw.cn/search/judgement/type?causeId=00ed014f642a46f39d8b7473d917aa5b",
+      "刑讯逼供致人伤亡赔偿": "http://openlaw.cn/search/judgement/type?causeId=f004e127f1b04dcdac435b1bf706901d",
+      "再审改判无罪赔偿": "http://openlaw.cn/search/judgement/type?causeId=50cd59236f57464e9ba44f1f25f45f80",
+      "重审后无罪赔偿": "http://openlaw.cn/search/judgement/type?causeId=45a2c23eb0a04814b4608fc7fbf32777",
+      "二审改判无罪赔偿": "http://openlaw.cn/search/judgement/type?causeId=13ff3912fe774f8aa3b5be182bb35d62",
+      "错误逮捕赔偿": "http://openlaw.cn/search/judgement/type?causeId=58c980cda128471ba9660259d23377af",
+      "违法刑事拘留赔偿": "http://openlaw.cn/search/judgement/type?causeId=a916a3756c254265a97912d5fc44cf9b",
+      "违法使用武器、警械致伤、致死赔偿": "http://openlaw.cn/search/judgement/type?causeId=8eb3b394a4b546ad858ef0433f092b4e",
+      "错判罚金、没收财产赔偿": "http://openlaw.cn/search/judgement/type?causeId=1fd6aaff60bd49a0bf9e9344bb3a80aa",
+      "超期刑事拘留赔偿": "http://openlaw.cn/search/judgement/type?causeId=a291aab32e074a29856bba2d02e1c839"
+    },
+    "非刑事赔偿": {
+      "刑事违法查封、扣押、冻结、追缴赔偿": "http://openlaw.cn/search/judgement/type?causeId=ea9316d6243949dfb0f164b30a835693",
+      "违法保全赔偿": "http://openlaw.cn/search/judgement/type?causeId=d81b0329ac9b4fd2a7bb19769d8a881d",
+      "错误执行赔偿": "http://openlaw.cn/search/judgement/type?causeId=4ebc7aac831549d4a9b8ff8cdf5c91e2",
+      "违法司法拘留赔偿": "http://openlaw.cn/search/judgement/type?causeId=afa1f1818e8a43c5b7923cc9c445cc8a",
+      "违法司法罚款赔偿": "http://openlaw.cn/search/judgement/type?causeId=b87d79c26dd2485683ca36d5db6a4790",
+      "违法查封、扣押、冻结赔偿": "http://openlaw.cn/search/judgement/type?causeId=1e65027662df4976b0174d0159586598"
+    }
+  },
+  "刑事": {
+    "危害国家安全": {
+      "背叛国家": "http://openlaw.cn/search/judgement/type?causeId=ee4d5e6944a24494a982d8a04513356a",
+      "分裂国家": "http://openlaw.cn/search/judgement/type?causeId=dda9457bf5ad4b5cb59366e39d82c798",
+      "煽动分裂国家": "http://openlaw.cn/search/judgement/type?causeId=533bbd6aede54f26934fed64f601dd33",
+      "武装叛乱、暴乱": "http://openlaw.cn/search/judgement/type?causeId=e10e42bc2ab04edd804e9a478eda35a8",
+      "颠覆国家政权": "http://openlaw.cn/search/judgement/type?causeId=e8f77d9f54ff4ff0b0e6be9278dc28bf",
+      "煽动颠覆国家政权": "http://openlaw.cn/search/judgement/type?causeId=ef7ec85a9e6247db8c132bc1101410a8",
+      "资助危害国家安全犯": "http://openlaw.cn/search/judgement/type?causeId=87854840e23d458693cfc87e463cbd48",
+      "投敌叛变": "http://openlaw.cn/search/judgement/type?causeId=ce42ea4a12f2408ba7813557b60e5a9e",
+      "叛逃": "http://openlaw.cn/search/judgement/type?causeId=68546586be1d4b45ae3bbe7699c6f266",
+      "间谍": "http://openlaw.cn/search/judgement/type?causeId=2ed03e1bdc084f93864bd0eea50aaf37",
+      "为境外窃取、剌探、收买、非法提供国家秘密、情报": "http://openlaw.cn/search/judgement/type?causeId=b38249a9a5f0446da1e2740aa490aeec",
+      "资敌": "http://openlaw.cn/search/judgement/type?causeId=e97155bd37544a9d9e901b777eab2280"
+    },
+    "危害公共安全": {
+      "放火": "http://openlaw.cn/search/judgement/type?causeId=a9cf55891ccd4b75a6896999515bc8a1",
+      "决水": "http://openlaw.cn/search/judgement/type?causeId=1f7d2cf80bf54455bd5b05dbb60441cc",
+      "爆炸": "http://openlaw.cn/search/judgement/type?causeId=841d14091e32490f9d11da1979e7b26e",
+      "投放危险物质": "http://openlaw.cn/search/judgement/type?causeId=25fd3836da324b1c9a428ffce093620f",
+      "以危险方法危害公共安全": "http://openlaw.cn/search/judgement/type?causeId=28b84924e01444f79940022175947a08",
+      "失火": "http://openlaw.cn/search/judgement/type?causeId=d7657623a12b457283ef175d83debd01",
+      "过失决水": "http://openlaw.cn/search/judgement/type?causeId=8760b8d7685742c882c3cf9cd79ea611",
+      "过失爆炸": "http://openlaw.cn/search/judgement/type?causeId=b84cac40c8b2435095e35047b90c4469",
+      "过失投放危险物质": "http://openlaw.cn/search/judgement/type?causeId=ad7f5e8f18294d7cb3e8f7f36123b5ad",
+      "过失以危险方法危害公共安全": "http://openlaw.cn/search/judgement/type?causeId=af64baefb18249499bd60ca54b7f8195",
+      "破坏交通工具": "http://openlaw.cn/search/judgement/type?causeId=f6c3c1b8f1f643fc8af82e08e0abac8d",
+      "破坏交通设施": "http://openlaw.cn/search/judgement/type?causeId=30d3a43ebfc04e8d8d90fd747c9fa6bb",
+      "破坏电力设备": "http://openlaw.cn/search/judgement/type?causeId=310f9012192946d582a06befa4979845",
+      "破坏易燃易爆设备": "http://openlaw.cn/search/judgement/type?causeId=87d59c9977144a93a7657a695971462e",
+      "过失损坏交通工具": "http://openlaw.cn/search/judgement/type?causeId=09f54429916a4e49813405300d75bd16",
+      "过失损坏交通设施": "http://openlaw.cn/search/judgement/type?causeId=1625c2dfcfef496782e8211420cab16e",
+      "过失损坏电力设备": "http://openlaw.cn/search/judgement/type?causeId=135cdbe8960848c99cbbb91d000ac597",
+      "过失损坏易燃易爆设备": "http://openlaw.cn/search/judgement/type?causeId=255716a07821416bbc5db7b08767df7e",
+      "组织、领导、参加恐怖组织": "http://openlaw.cn/search/judgement/type?causeId=72fa386f8f2c4c8cba4a75f08dc03990",
+      "资助恐怖活动": "http://openlaw.cn/search/judgement/type?causeId=3e274b6bf3ff4fdfb6cacc2c36d17744",
+      "劫持航空器": "http://openlaw.cn/search/judgement/type?causeId=20d55f43c222425cb8139d441350b772",
+      "劫持船只、汽车": "http://openlaw.cn/search/judgement/type?causeId=08c9a29a007d4fe1811b7dd6683be2be",
+      "暴力危及飞行安全": "http://openlaw.cn/search/judgement/type?causeId=26d29064acdd4313b37022648660ca36",
+      "破坏广播电视设施、公用电信设施": "http://openlaw.cn/search/judgement/type?causeId=5c2a608b457749ee81a41670cc939b16",
+      "过失损坏广播电视设施、公用电信设施": "http://openlaw.cn/search/judgement/type?causeId=490aa3bf00ed44e4b80948d97b4cfc9d",
+      "非法制造、买卖、运输、邮寄、储存枪支、弹药、爆炸物": "http://openlaw.cn/search/judgement/type?causeId=87efcc9481314fbaa3e9cc31cc57a0dd",
+      "非法制造、买卖、运输、储存危险物质": "http://openlaw.cn/search/judgement/type?causeId=a7d820fe0d5b475b8e5f06490ef77491",
+      "违规制造、销售枪支": "http://openlaw.cn/search/judgement/type?causeId=89d93a3900a54c15bf7d2b00ac69f302",
+      "盗窃、抢夺枪支、弹药、爆炸物、危险物质": "http://openlaw.cn/search/judgement/type?causeId=cc2d5ec7c9e1419ca8db4d00382744d1",
+      "抢劫枪支、弹药、爆炸物、危险物质": "http://openlaw.cn/search/judgement/type?causeId=f96440f545e743acb403d4e45e348e6e",
+      "非法持有、私藏枪支、弹药": "http://openlaw.cn/search/judgement/type?causeId=88d411b7307b4506adaf10791d48fc0c",
+      "非法出租、出借枪支": "http://openlaw.cn/search/judgement/type?causeId=92d4148c786c43eda677c9334a543fc2",
+      "丢失枪支不报": "http://openlaw.cn/search/judgement/type?causeId=554994e183f544aaae8ee9cb091e4c40",
+      "非法携带枪支、弹药、管制刀具、危险物品危及公共安全": "http://openlaw.cn/search/judgement/type?causeId=00d29319b0074c8583d49319866df63e",
+      "重大飞行事故": "http://openlaw.cn/search/judgement/type?causeId=08f2bd39b48c49508649e34ad4b896a8",
+      "铁路运营安全事故": "http://openlaw.cn/search/judgement/type?causeId=75cfae8245f8465292f3bc1fe48fba8c",
+      "交通肇事": "http://openlaw.cn/search/judgement/type?causeId=b3a4fabaa1144f68a91fb85adece4d7d",
+      "危险驾驶": "http://openlaw.cn/search/judgement/type?causeId=10176ef461cb4fe78dbdc68144d8c8bf",
+      "重大责任事故": "http://openlaw.cn/search/judgement/type?causeId=34b77e7c22d74a649e0ab6c4da387139",
+      "强令违章冒险作业": "http://openlaw.cn/search/judgement/type?causeId=7136504a94c344d59b9c47b6e5847e11",
+      "重大劳动安全事故": "http://openlaw.cn/search/judgement/type?causeId=7c792bd080f04f5db9be6a22a63f78ff",
+      "大型群众性活动重大安全事故": "http://openlaw.cn/search/judgement/type?causeId=ee713744cff84355ac2c44b2ffeed5f1",
+      "危险物品肇事": "http://openlaw.cn/search/judgement/type?causeId=6c022fb4ee59465a9f30c3af62201bf9",
+      "工程重大安全事故": "http://openlaw.cn/search/judgement/type?causeId=a1832445afe04351a9375a9f0c2784b6",
+      "教育设施重大安全事故": "http://openlaw.cn/search/judgement/type?causeId=d68894aee8494f3da79cd38444a0f580",
+      "消防责任事故": "http://openlaw.cn/search/judgement/type?causeId=5b73afdec659449dad071ad7efdf1945",
+      "不报、谎报安全事故": "http://openlaw.cn/search/judgement/type?causeId=5072bc0fedc441fd97574580723c1160"
+    },
+    "破坏社会主义市场经济秩序": {
+      "生产、销售伪劣商品": {
+        "生产、销售伪劣产品": "http://openlaw.cn/search/judgement/type?causeId=447207f2e84f45eea4ac92e0c7980375",
+        "生产、销售假药": "http://openlaw.cn/search/judgement/type?causeId=3c96a5f17a4d4c5da6cc1e8836251fde",
+        "生产、销售劣药": "http://openlaw.cn/search/judgement/type?causeId=48685a46b4294389944d58e0281b3287",
+        "生产、销售不符合安全标准的食品": "http://openlaw.cn/search/judgement/type?causeId=4b0dcf3964cc48db8d319d6e6df1b08a",
+        "生产、销售有毒、有害食品": "http://openlaw.cn/search/judgement/type?causeId=ba1e068f61f54be48d7722312a79489b",
+        "生产、销售不符合标准的医用器材": "http://openlaw.cn/search/judgement/type?causeId=0e11b5ee97cc487e940c9779e841a497",
+        "生产、销售不符合安全标准的产品": "http://openlaw.cn/search/judgement/type?causeId=08641a77be00482bbdb14a57dcb805e5",
+        "生产、销售伪劣农药、兽药、化肥、种子": "http://openlaw.cn/search/judgement/type?causeId=8abb21f6282343db8fe922e0106a12af",
+        "生产、销售不符合卫生标准的化妆品": "http://openlaw.cn/search/judgement/type?causeId=bb30b7ec24954d04a5b81bd4eb571a94"
+      },
+      "走私": {
+        "走私武器、弹药": "http://openlaw.cn/search/judgement/type?causeId=c6a5edcad71a42189ff88ae5e50f6b3f",
+        "走私核材料": "http://openlaw.cn/search/judgement/type?causeId=c5d8e1c62ffc4921b3c5f6a70a66a125",
+        "走私假币": "http://openlaw.cn/search/judgement/type?causeId=b20cdb1e09e54223be02689eb44c4b70",
+        "走私文物": "http://openlaw.cn/search/judgement/type?causeId=3f5e3e61e0cc4b08a6ddeaae9d001c38",
+        "走私贵重金属": "http://openlaw.cn/search/judgement/type?causeId=42bc8ce009aa446681950228fe083746",
+        "走私珍贵动物、珍贵动物制品": "http://openlaw.cn/search/judgement/type?causeId=25c6085c5b824ad0bdb33536fafb37dd",
+        "走私国家禁止进出口的货物、物品": "http://openlaw.cn/search/judgement/type?causeId=c425a4632c4448cb8d4be9adad76497f",
+        "走私淫秽物品": "http://openlaw.cn/search/judgement/type?causeId=c21538826ac544f1b14568cabd10a187",
+        "走私废物": "http://openlaw.cn/search/judgement/type?causeId=2bc87545d8ca4ec6b3f53fd855de285a",
+        "走私普通货物、物品": "http://openlaw.cn/search/judgement/type?causeId=a7811a501ef14dc58c9705c12d7ab6f9"
+      },
+      "妨害对公司、企业的管理秩序": {
+        "虚报注册资本": "http://openlaw.cn/search/judgement/type?causeId=048587516040483e899441559ab59c62",
+        "虚假出资、抽逃出资": "http://openlaw.cn/search/judgement/type?causeId=d0df4853b58f4510b87036cb91f69b01",
+        "欺诈发行股票、债券": "http://openlaw.cn/search/judgement/type?causeId=c553084ec129442388dd787908c4230f",
+        "违规披露、不披露重要信息": "http://openlaw.cn/search/judgement/type?causeId=7d9ac6b826a24c9dafbba8c6fd6f55f7",
+        "妨害清算": "http://openlaw.cn/search/judgement/type?causeId=124beb5c68754428adab30ee6678aba2",
+        "虚假破产": "http://openlaw.cn/search/judgement/type?causeId=db8aba70c4a5496f94cf629aa918d793",
+        "隐匿、故意销毁会计凭证、会计帐簿、财务会计报告": "http://openlaw.cn/search/judgement/type?causeId=5c8fa1a7e6a1406c876f131837bc09bd",
+        "非国家工作人员受贿": "http://openlaw.cn/search/judgement/type?causeId=08ebe1d7445b4b218e69aadf9b8b85cb",
+        "对非国家工作人员行贿": "http://openlaw.cn/search/judgement/type?causeId=3ed1f270faee4cf1aaee86ca70c78347",
+        "对外国公职人员、国际公共组织官员行贿": "http://openlaw.cn/search/judgement/type?causeId=6828478b2bbb4f3a9cfc2a9c188fb8df",
+        "非法经营同类营业": "http://openlaw.cn/search/judgement/type?causeId=a6891228c69b4fb195046eb3cec738d8",
+        "为亲友非法牟利": "http://openlaw.cn/search/judgement/type?causeId=dfbf7d762050469daf719e446509c4cd",
+        "签订、履行合同失职被骗": "http://openlaw.cn/search/judgement/type?causeId=70648d02f9444f80b284257f5427b5ca",
+        "国有公司、企业、事业单位人员失职": "http://openlaw.cn/search/judgement/type?causeId=b2c701a6170643cb99f052dc91982e2e",
+        "国有公司、企业、事业单位人员滥用职权": "http://openlaw.cn/search/judgement/type?causeId=3a34abec1279413fa7ff4ed472f769af",
+        "徇私舞弊低价折股、出售国有资产": "http://openlaw.cn/search/judgement/type?causeId=184b6a58f2cb4e98a9d43cbf659bc4f2",
+        "背信损害上市公司利益": "http://openlaw.cn/search/judgement/type?causeId=11e6e3e15ee241d898841aff90672989"
+      },
+      "破坏金融管理秩序": {
+        "伪造货币": "http://openlaw.cn/search/judgement/type?causeId=b98d7ba628734f91ae1b21ca7c23aabd",
+        "出售、购买、运输假币": "http://openlaw.cn/search/judgement/type?causeId=140a65bbeb064c988e5f5bedd1a12138",
+        "金融工作人员购买假币、以假币换取货币": "http://openlaw.cn/search/judgement/type?causeId=6c8d7c27dabf4c238572464ee580d59c",
+        "持有、使用假币": "http://openlaw.cn/search/judgement/type?causeId=6edc05462c88473daa2f8bcf52b32dbc",
+        "变造货币": "http://openlaw.cn/search/judgement/type?causeId=489b782d5f1446a58da94d748c19fd07",
+        "擅自设立金融机构": "http://openlaw.cn/search/judgement/type?causeId=2384c55d79504f82ad3419db3863778d",
+        "伪造、变造、转让金融机构经营许可证、批准文件": "http://openlaw.cn/search/judgement/type?causeId=b152730218d243caa6ba8308c127c912",
+        "高利转贷": "http://openlaw.cn/search/judgement/type?causeId=415524e88fbd4006943863553722d52b",
+        "骗取贷款、票据承兑、金融票证": "http://openlaw.cn/search/judgement/type?causeId=51360e9ffbf14d4da09373228036c521",
+        "非法吸收公众存款": "http://openlaw.cn/search/judgement/type?causeId=54a6863a662c441ea877392ded90f6ed",
+        "伪造、变造金融票证": "http://openlaw.cn/search/judgement/type?causeId=3abf7f8dbd8843c5bb2f141cc3cba5a2",
+        "妨害信用卡管理": "http://openlaw.cn/search/judgement/type?causeId=207f472cc1fe4ba7ae935d2692a62643",
+        "窃取、收买、非法提供信用卡信息": "http://openlaw.cn/search/judgement/type?causeId=9e798c907ebf4d399f92e743771d4099",
+        "伪造、变造国家有价证券": "http://openlaw.cn/search/judgement/type?causeId=630996ddc27e4f6c9ba56d8a00787f4e",
+        "伪造、变造股票、公司、企业债券": "http://openlaw.cn/search/judgement/type?causeId=2f52c01eac024e89bb71924ef21379c5",
+        "擅自发行股票、公司、企业债券": "http://openlaw.cn/search/judgement/type?causeId=306bbb34e95c479a9be3b631eca98edf",
+        "内幕交易、泄露内幕信息": "http://openlaw.cn/search/judgement/type?causeId=9fb45a7ac5384ab79a0575c7634e6919",
+        "利用未公开信息交易": "http://openlaw.cn/search/judgement/type?causeId=b93bdeca57194cb0a08e07355c40a1b7",
+        "编造并传播证券、期货交易虚假信息": "http://openlaw.cn/search/judgement/type?causeId=f7c57075d2074eaeafa234c13446145f",
+        "诱骗投资者买卖证券、期货合约": "http://openlaw.cn/search/judgement/type?causeId=38ba55d3ea174da98944a619f6bdaa70",
+        "操纵证券、期货市场": "http://openlaw.cn/search/judgement/type?causeId=63bb2bcca9cf459fb6c36262407791c6",
+        "背信运用受托财产": "http://openlaw.cn/search/judgement/type?causeId=0367675b53bb46dba08a12a5f5227891",
+        "违法运用资金": "http://openlaw.cn/search/judgement/type?causeId=500df3d10df94f449ac4b974f46ea42d",
+        "违法发放贷款罪": "http://openlaw.cn/search/judgement/type?causeId=4436c71490964380a6db8d15941553d3",
+        "违法发放贷款": "http://openlaw.cn/search/judgement/type?causeId=80cb153545164370b040cd6716c54505",
+        "吸收客户资金不入账": "http://openlaw.cn/search/judgement/type?causeId=2e98ecede566493f9c9119748cc92d44",
+        "违规出具金融票证": "http://openlaw.cn/search/judgement/type?causeId=f6accae1d6bc40e68eb2ef7cd4584b6b",
+        "对违法票据承兑、付款、保证": "http://openlaw.cn/search/judgement/type?causeId=77691a6e9f974dadb153a5179d544a8a",
+        "骗购外汇": "http://openlaw.cn/search/judgement/type?causeId=aa7ca1e6083241fa82a2376f302fac66",
+        "逃汇": "http://openlaw.cn/search/judgement/type?causeId=658970ec96ad4969840534c9bb7c71de",
+        "洗钱": "http://openlaw.cn/search/judgement/type?causeId=105f74def76246c1a2344182504190ff"
+      },
+      "金融诈骗": {
+        "集资诈骗": "http://openlaw.cn/search/judgement/type?causeId=d50f6496e09048c59667da047c1e7bd2",
+        "贷款诈骗": "http://openlaw.cn/search/judgement/type?causeId=f85b97fd14524f27b10582ab0f8be8fb",
+        "票据诈骗": "http://openlaw.cn/search/judgement/type?causeId=893931525da64de9aaa7fe6d54430b19",
+        "金融凭证诈骗": "http://openlaw.cn/search/judgement/type?causeId=7d1d3d7958524e5693a7585e60947520",
+        "信用证诈骗": "http://openlaw.cn/search/judgement/type?causeId=2191a886537944d9945147f9bd936173",
+        "信用卡诈骗": "http://openlaw.cn/search/judgement/type?causeId=d882f0f0c8ad439eaef0aba8ad553114",
+        "有价证券诈骗": "http://openlaw.cn/search/judgement/type?causeId=cd0dfe0954e34875aaefb64e08bc877d",
+        "保险诈骗": "http://openlaw.cn/search/judgement/type?causeId=67ea543cff6a4d15a3d3be476285db36"
+      },
+      "危害税收征管": {
+        "逃税": "http://openlaw.cn/search/judgement/type?causeId=849f97bf2bb54b02b7f155bfdbe92785",
+        "抗税": "http://openlaw.cn/search/judgement/type?causeId=c49341fceb4e487295d145bb08f352c5",
+        "逃避追缴欠税": "http://openlaw.cn/search/judgement/type?causeId=af4df7a1ee084bbd982da806879f4f79",
+        "骗取出口退税": "http://openlaw.cn/search/judgement/type?causeId=ee2c420a61724e6ba983fec5c9a3aedd",
+        "虚开增值税专用发票、用于骗取出口退税、抵押税款发票": "http://openlaw.cn/search/judgement/type?causeId=ca8d4e61dde9475bbbea400688723537",
+        "虚开发票": "http://openlaw.cn/search/judgement/type?causeId=6f8e4177d0e84aa787b5e3cc3bc86258",
+        "伪造、出售伪造的增值税专用发票": "http://openlaw.cn/search/judgement/type?causeId=7d680fb5846949068dbf8fafd83600d2",
+        "非法出售增值税专用发票": "http://openlaw.cn/search/judgement/type?causeId=18b613bc24cf4375aa4c671509d4478a",
+        "非法购买增值税专用发票、购买伪造的增值税专用发票": "http://openlaw.cn/search/judgement/type?causeId=2aea4cff69094fefb6911201c952210f",
+        "非法制造、出售非法制造的用于骗取出口退税、抵押税款发票": "http://openlaw.cn/search/judgement/type?causeId=1f24ed5fa0644c95a2d4bd3d11e1c9aa",
+        "非法制造、出售非法制造的发票": "http://openlaw.cn/search/judgement/type?causeId=e8fb6f873fbf4954b61632e7eef3b9e6",
+        "非法出售用于骗取出口退税、抵扣税款发票": "http://openlaw.cn/search/judgement/type?causeId=f34b1e4a182b4c01af3b1a62c8c6d5ad",
+        "非法出售发票": "http://openlaw.cn/search/judgement/type?causeId=293c613bd6ce417da1b6d2250de08854",
+        "持有伪造的发票": "http://openlaw.cn/search/judgement/type?causeId=650471c4c3ef4a6ca435081cbe433770"
+      },
+      "侵犯知识产权": {
+        "假冒注册商标": "http://openlaw.cn/search/judgement/type?causeId=d09daa70c7804bbeb0bc1bd50a0b0da4",
+        "销售假冒注册商标的商品": "http://openlaw.cn/search/judgement/type?causeId=a1a5e722341e4ab98996593e5e0726bf",
+        "非法制造、销售非法制造的注册商标标识": "http://openlaw.cn/search/judgement/type?causeId=d11b07707e5a4e33b00620112283ea88",
+        "假冒专利": "http://openlaw.cn/search/judgement/type?causeId=8227920b67e4409ba93c73fb6eff5f7f",
+        "侵犯著作权": "http://openlaw.cn/search/judgement/type?causeId=2b8baabc7e79478e8d0fa841dbb0f142",
+        "销售侵权复制品": "http://openlaw.cn/search/judgement/type?causeId=471662650a8e4a128cb06cf82b4a7693",
+        "侵犯商业秘密": "http://openlaw.cn/search/judgement/type?causeId=44d86d33173c449bb39cbcc0d3351c87"
+      },
+      "扰乱市场秩序": {
+        "损害商业信誉、商品声誉": "http://openlaw.cn/search/judgement/type?causeId=e5e27e47acd0418b8c216acd36bff47f",
+        "虚假广告": "http://openlaw.cn/search/judgement/type?causeId=65d8f61933d24865a5c6b644682973ca",
+        "串通投标": "http://openlaw.cn/search/judgement/type?causeId=6d0ca14ea7194696947f8563f546541b",
+        "合同诈骗": "http://openlaw.cn/search/judgement/type?causeId=00855b99e39c42929e0488bbd4f3b716",
+        "组织、领导传销活动": "http://openlaw.cn/search/judgement/type?causeId=64fd09400f4149edb3e24d2608e848e2",
+        "非法经营": "http://openlaw.cn/search/judgement/type?causeId=1b97f0ab09d74ed0b9cd4d6dc2f72a93",
+        "强迫交易": "http://openlaw.cn/search/judgement/type?causeId=30143bf9edce44ceb60c307e35e93592",
+        "伪造、倒卖伪造的有价票证": "http://openlaw.cn/search/judgement/type?causeId=e5567abf237141ce9cb30644d87c6976",
+        "倒卖车票、船票": "http://openlaw.cn/search/judgement/type?causeId=757ae22f2c1047f384ea7728435aee10",
+        "非法转让、倒卖土地使用权": "http://openlaw.cn/search/judgement/type?causeId=9e2208d3209e4fd8b2db94a34b1b1373",
+        "提供虚假证明文件": "http://openlaw.cn/search/judgement/type?causeId=90865eaf5afa48d9ae17d2968ce5588b",
+        "出具证明文件重大失实": "http://openlaw.cn/search/judgement/type?causeId=698cbffbe22146ab972930e6708e8a60",
+        "逃避商检": "http://openlaw.cn/search/judgement/type?causeId=a82f25ef1d7d4c26968ad7eddb7220fc"
+      }
+    },
+    "侵犯公民人身权利、民主权利": {
+      "故意杀人": "http://openlaw.cn/search/judgement/type?causeId=98e8e96c693546f288781c1c706c1d85",
+      "过失致人死亡": "http://openlaw.cn/search/judgement/type?causeId=654632e2d4da408d9a0e8b1d2d68003c",
+      "故意伤害": "http://openlaw.cn/search/judgement/type?causeId=e61d248383b44e7ab27fb7614037f53b",
+      "组织出卖人体器官": "http://openlaw.cn/search/judgement/type?causeId=92bfd19be95544959249397642ca38d2",
+      "过失致人重伤": "http://openlaw.cn/search/judgement/type?causeId=fe66fe9389ea4970b035deb77ebe56fb",
+      "强奸": "http://openlaw.cn/search/judgement/type?causeId=0b47dff63e254b6886cad44fef3392b8",
+      "强制猥亵、侮辱妇女": "http://openlaw.cn/search/judgement/type?causeId=00240431e49441a6a73855b56b6ef824",
+      "猥亵儿童": "http://openlaw.cn/search/judgement/type?causeId=2e408832443048c48997e452c2142fbd",
+      "非法拘禁": "http://openlaw.cn/search/judgement/type?causeId=50bd4fb4fdde40fcb1d8d062dd8129f9",
+      "绑架": "http://openlaw.cn/search/judgement/type?causeId=2d6b075eeb324ddfbdc6db9eaef02961",
+      "拐卖妇女、儿童": "http://openlaw.cn/search/judgement/type?causeId=3fca30d5b5324d20bb1e746a3b36e257",
+      "收买被拐卖的妇女、儿童": "http://openlaw.cn/search/judgement/type?causeId=ab914207eb3a4174bd42a9088db1cb1a",
+      "聚众阻碍解救被收买的妇女、儿童": "http://openlaw.cn/search/judgement/type?causeId=881075b3000445deb91d96505719e629",
+      "诬告陷害": "http://openlaw.cn/search/judgement/type?causeId=bc62967fa225403ebcf41c1a3af78549",
+      "强迫劳动": "http://openlaw.cn/search/judgement/type?causeId=d4e701917af245ffa6a835319651b1e6",
+      "雇用童工从事危重劳动": "http://openlaw.cn/search/judgement/type?causeId=b58d599343544231a552ace897d0c869",
+      "非法搜查": "http://openlaw.cn/search/judgement/type?causeId=7b3144f3557545ccbba89e521b15886e",
+      "非法侵入住宅": "http://openlaw.cn/search/judgement/type?causeId=816a867c5a704d4d8443ba04b5dcdd86",
+      "侮辱": "http://openlaw.cn/search/judgement/type?causeId=1495383548264595b78a06ba3eb38d56",
+      "诽谤": "http://openlaw.cn/search/judgement/type?causeId=998735141bfa4a37aa570465e54eee31",
+      "刑讯逼供": "http://openlaw.cn/search/judgement/type?causeId=208998564f9b43bb856ba70e496629b1",
+      "暴力取证": "http://openlaw.cn/search/judgement/type?causeId=27d032cdfb1e4013ab6adafd4b17b9aa",
+      "虐待被监管人": "http://openlaw.cn/search/judgement/type?causeId=9b70ffd054d5455db62fbbefb8330ef7",
+      "煽动民族仇恨、民族歧视": "http://openlaw.cn/search/judgement/type?causeId=030665beb2d6485cb1043af5872a197f",
+      "出版歧视、侮辱少数民族作品": "http://openlaw.cn/search/judgement/type?causeId=a61c4f6ed6844ca4b54ffe8ea1529cf4",
+      "非法剥夺公民宗教信仰自由": "http://openlaw.cn/search/judgement/type?causeId=50b54767fc4e4b3f8e8e659985eee4ea",
+      "侵犯少数民族风俗习惯": "http://openlaw.cn/search/judgement/type?causeId=ac9ef763948a452eb850c58a1ba96ce7",
+      "侵犯通信自由": "http://openlaw.cn/search/judgement/type?causeId=b01709b6e6de43d8a1b7ec17045df6ba",
+      "私自开拆、隐匿、毁弃邮件、电报": "http://openlaw.cn/search/judgement/type?causeId=7c0d501d558e434eae6225d3b228ea63",
+      "出售、非法提供公民个人信息": "http://openlaw.cn/search/judgement/type?causeId=cf6949d829424cad93eba0396f2d28b0",
+      "非法获取公民个人信息": "http://openlaw.cn/search/judgement/type?causeId=265ae5e87f614ce39a54facda6e4a4c2",
+      "报复陷害": "http://openlaw.cn/search/judgement/type?causeId=8a9fab21509740d6b43613c2dda82e14",
+      "打击报复会计、统计人员": "http://openlaw.cn/search/judgement/type?causeId=45b4822d6ba445ab8e65d102dc7d118c",
+      "破坏选举": "http://openlaw.cn/search/judgement/type?causeId=2cbe1136c30f408abfe65d6fefb9a135",
+      "暴力干涉婚姻自由": "http://openlaw.cn/search/judgement/type?causeId=6bd7557bedf944f48fe683f30dc5a37f",
+      "重婚": "http://openlaw.cn/search/judgement/type?causeId=af262fa232ca4086b9934791a7de8f90",
+      "破坏军婚": "http://openlaw.cn/search/judgement/type?causeId=e5f47c5ccb4844a0b7a14c92c0ffc2c0",
+      "虐待": "http://openlaw.cn/search/judgement/type?causeId=17ee9b7ef0954769a78273a95b28a370",
+      "遗弃": "http://openlaw.cn/search/judgement/type?causeId=0b34605cdcdb4628a9e9598b73568bc6",
+      "拐骗儿童": "http://openlaw.cn/search/judgement/type?causeId=7915cfc3987a49628aac90da75ee44d3",
+      "组织残疾人、儿童乞讨": "http://openlaw.cn/search/judgement/type?causeId=143d9ecaa6bd448db2e45c9b79088aec",
+      "组织未成年人进行违反治安管理活动": "http://openlaw.cn/search/judgement/type?causeId=9ec68571697747e68d3a39001a5ccc63"
+    },
+    "侵犯财产": {
+      "抢劫": "http://openlaw.cn/search/judgement/type?causeId=ff26befe78c84d99ab1dbcfb07a0a9fd",
+      "盗窃": "http://openlaw.cn/search/judgement/type?causeId=4cf17bc5153643ad878e67de37d2612e",
+      "诈骗": "http://openlaw.cn/search/judgement/type?causeId=434f05d2b518457c990da67fcf99545b",
+      "抢夺": "http://openlaw.cn/search/judgement/type?causeId=882bdfca58dc4833b781503caa19ad98",
+      "聚众哄抢": "http://openlaw.cn/search/judgement/type?causeId=dd7ce4d606e14dadbcadc47dd04c2b3c",
+      "侵占": "http://openlaw.cn/search/judgement/type?causeId=57936537fcc943de8aa92a9dee2c9dfa",
+      "职务侵占": "http://openlaw.cn/search/judgement/type?causeId=9983256932d94e268c22a4b00a120701",
+      "挪用资金": "http://openlaw.cn/search/judgement/type?causeId=c78ff2fa416649dda281d81dec70a87c",
+      "挪用特定款物": "http://openlaw.cn/search/judgement/type?causeId=e098f404998d4d95822c84433749b3f0",
+      "敲诈勒索": "http://openlaw.cn/search/judgement/type?causeId=3b6692e8d5344652ac52deab24812e94",
+      "故意毁坏财物": "http://openlaw.cn/search/judgement/type?causeId=c65c0a92b09348ec8043a2658ebcd53d",
+      "破坏生产经营": "http://openlaw.cn/search/judgement/type?causeId=642cd5804d034ab299f23d5ecb1fea4c",
+      "拒不支付劳动报酬": "http://openlaw.cn/search/judgement/type?causeId=18d4d2b18c0a47089c0d141fd2b0272c"
+    },
+    "妨害社会管理秩序": {
+      "扰乱公共秩序": {
+        "妨害公务": "http://openlaw.cn/search/judgement/type?causeId=f4a08d1db38f4ff1b658cd13967b2bc3",
+        "煽动暴力抗拒法律实施": "http://openlaw.cn/search/judgement/type?causeId=7ab002c3c11f4f97ab96a64d1ec26d66",
+        "招摇撞骗": "http://openlaw.cn/search/judgement/type?causeId=729d07224343458d87630c3fac8bed02",
+        "伪造、变造、买卖国家机关公文、证件、印章": "http://openlaw.cn/search/judgement/type?causeId=30be74fe93a14c50be71af577a01e729",
+        "盗窃、抢夺、毁灭国家机关公文、证件、印章": "http://openlaw.cn/search/judgement/type?causeId=38a12a16d81944f1b266aefe2eeefd67",
+        "伪造公司、企业、事业单位、人民团体印章": "http://openlaw.cn/search/judgement/type?causeId=e311f91ebb9b4fdaaa8d6e4aa9f7a9e1",
+        "伪造、变造居民身份证": "http://openlaw.cn/search/judgement/type?causeId=ac2e18b064a9415d8409ec7c1425e20e",
+        "非法生产、买卖警用装备": "http://openlaw.cn/search/judgement/type?causeId=c5a3253447374de299e820c88f56cb0a",
+        "非法获取国家秘密": "http://openlaw.cn/search/judgement/type?causeId=1f0c6b678e024e34913f3aac2849e53a",
+        "非法持有国家绝密、机密文件、资料、物品": "http://openlaw.cn/search/judgement/type?causeId=8c23842b2aa9409cbc67a439ef1c8c02",
+        "非法生产、销售间谍专用器材": "http://openlaw.cn/search/judgement/type?causeId=81fd1c2d9dcb4c2780bd396c15434ff3",
+        "非法使用窃听、窃照专用器材": "http://openlaw.cn/search/judgement/type?causeId=b46f4b80d8824b8982d6756ad0a8584d",
+        "非法侵入计算机信息系统": "http://openlaw.cn/search/judgement/type?causeId=154ea9cc32d04d5984609b6ad3d34f80",
+        "非法获取计算机信息系统数据、非法控制计算机信息系统": "http://openlaw.cn/search/judgement/type?causeId=38b7f417cbe94e21ab66538cb7ab0f8e",
+        "提供侵入、非法控制计算机信息系统程序、工具": "http://openlaw.cn/search/judgement/type?causeId=6e20e0135a8b4d04822247fee8fbc168",
+        "破坏计算机信息系统": "http://openlaw.cn/search/judgement/type?causeId=5e8d0fbbb5984b4d9d5b89c7b6a3c54f",
+        "扰乱无线电通讯管理秩序": "http://openlaw.cn/search/judgement/type?causeId=3fca6b73f23d4f6f8bc54e468dae4f9f",
+        "聚众扰乱社会秩序": "http://openlaw.cn/search/judgement/type?causeId=6a780b81c8b34b4085e12a92cb6d4e07",
+        "聚众冲击国家机关": "http://openlaw.cn/search/judgement/type?causeId=9190c8ff8e8c4186ae06968729b69696",
+        "聚众扰乱公共场所秩序、交通秩序": "http://openlaw.cn/search/judgement/type?causeId=58bf59351090445687a49a4b4ba9baf4",
+        "投放虚假危险物质": "http://openlaw.cn/search/judgement/type?causeId=2a59ce181f2f429eb641d0f497999cd7",
+        "编造、故意传播虚假恐怖信息": "http://openlaw.cn/search/judgement/type?causeId=aabf1a077638470fa2196584dc6745bd",
+        "聚众斗殴": "http://openlaw.cn/search/judgement/type?causeId=f6400b0d39424f5bbb077128e3cdbde9",
+        "寻衅滋事": "http://openlaw.cn/search/judgement/type?causeId=c23220ad83734332a252ba5d0dfdcbb5",
+        "组织、领导、参加黑社会性质组织": "http://openlaw.cn/search/judgement/type?causeId=644e4a4eacc944599b4362e6fd9595df",
+        "入境发展黑社会组织": "http://openlaw.cn/search/judgement/type?causeId=ad1a8da2a188403ba6cf795bfee0a8b0",
+        "包庇、纵容黑社会性质组织": "http://openlaw.cn/search/judgement/type?causeId=979712c3f3bb40b3a784be2ba0507086",
+        "传授犯": "http://openlaw.cn/search/judgement/type?causeId=91b4cbbd4fc14be7a19cfe5ae9f6e1ff",
+        "非法集会、游行、示威": "http://openlaw.cn/search/judgement/type?causeId=97c898008d9941ffa8a285110dbc221f",
+        "非法携带武器、管制刀具、爆炸物参加集会、游行、示威": "http://openlaw.cn/search/judgement/type?causeId=302388a4164a405da8c3f07894cd7e5b",
+        "破坏集会、游行、示威": "http://openlaw.cn/search/judgement/type?causeId=db6c2ba7223140d18506a14b1b8c1559",
+        "侮辱国旗、国徽": "http://openlaw.cn/search/judgement/type?causeId=eaf5c9dd84ac4f5dbf1915633f3f4baf",
+        "组织、利用会道门、邪教组织、利用迷信破坏法律实施": "http://openlaw.cn/search/judgement/type?causeId=97e587c89f95470589a04e5f96d92982",
+        "组织、利用会道门、邪教组织、利用迷信致人死亡": "http://openlaw.cn/search/judgement/type?causeId=47bec0273b2941e3b33cb935a91c5558",
+        "聚众淫乱": "http://openlaw.cn/search/judgement/type?causeId=099ddcbae6bf455ba13f8a59b26706bb",
+        "引诱未成年人聚众淫乱": "http://openlaw.cn/search/judgement/type?causeId=0f71d85c79974422b0c716c2d2f0c8b7",
+        "盗窃、侮辱尸体": "http://openlaw.cn/search/judgement/type?causeId=5663502231f24744972391bb2451e80e",
+        "赌博": "http://openlaw.cn/search/judgement/type?causeId=5a25ed94c9d04a4989fe50229abe5004",
+        "开设赌场": "http://openlaw.cn/search/judgement/type?causeId=a7a38d3843c341d5801f573e1f2aca45",
+        "故意延误投递邮件": "http://openlaw.cn/search/judgement/type?causeId=100c21c5c35648768db2a0492ca5df9a",
+        "使用虚假身份证件、盗用身份证件": "http://openlaw.cn/search/judgement/type?causeId=361b5562ae4641d4a171afd4514dfcac"
+      },
+      "妨害司法": {
+        "伪证": "http://openlaw.cn/search/judgement/type?causeId=5a63a3caae554c54a3ffc3bad521ea2f",
+        "辩护人、诉讼代理人毁灭证据、伪造证据、妨害作证": "http://openlaw.cn/search/judgement/type?causeId=a4716b8dcbbe4939b4b3e6b68ef9e2db",
+        "妨害作证": "http://openlaw.cn/search/judgement/type?causeId=d9d6fb52d194417082ee3b0283a62e59",
+        "帮助毁灭、伪造证据": "http://openlaw.cn/search/judgement/type?causeId=a1e15916408c48fea7d02e9d13a2bf9e",
+        "打击报复证人": "http://openlaw.cn/search/judgement/type?causeId=66d591e56d1f4b1bbfb19ce23e11c17d",
+        "扰乱法庭秩序": "http://openlaw.cn/search/judgement/type?causeId=4861aeb844804a62836878057c0896d0",
+        "窝藏、包庇": "http://openlaw.cn/search/judgement/type?causeId=12a97278978d44b3ad38cae04a83c9da",
+        "拒绝提供间谍犯": "http://openlaw.cn/search/judgement/type?causeId=abb4c7d084504762b706a8bd7e055a4b",
+        "掩饰、隐瞒犯": "http://openlaw.cn/search/judgement/type?causeId=6bddc914cb954d04a17227e114978f7d",
+        "拒不执行判决、裁定": "http://openlaw.cn/search/judgement/type?causeId=012327b1747e4ea6884f1137975f7556",
+        "非法处置查封、扣押、冻结的财产": "http://openlaw.cn/search/judgement/type?causeId=447c3616ddd841eca63bf7c9a57ff115",
+        "破坏监管秩序": "http://openlaw.cn/search/judgement/type?causeId=fbaddfbc987b4611a98d85ef8d77f912",
+        "脱逃": "http://openlaw.cn/search/judgement/type?causeId=001fd9c0559b45bab9321b95f22e84e6",
+        "劫夺被押解人员": "http://openlaw.cn/search/judgement/type?causeId=5ecf5baae2ae4117924ed7587a43bbe0",
+        "组织越狱": "http://openlaw.cn/search/judgement/type?causeId=31a9875021d348e0ab19ec2d557ff764",
+        "暴动越狱": "http://openlaw.cn/search/judgement/type?causeId=31b46f6005af41549034def2d6d1a79e",
+        "聚众持械劫狱": "http://openlaw.cn/search/judgement/type?causeId=ac66e9465741483789fa9129c8ad6169"
+      },
+      "妨害国（边）境管理": {
+        "组织他人偷越国（边）境": "http://openlaw.cn/search/judgement/type?causeId=4a7434889f804f1ea058892a405b7e3c",
+        "骗取出境证件": "http://openlaw.cn/search/judgement/type?causeId=1e3f09eef3654fab93a577def2e38e5f",
+        "提供伪造、变造的出入境证件": "http://openlaw.cn/search/judgement/type?causeId=3db661c981d9445d9e18f2194eff8944",
+        "出售出入境证件": "http://openlaw.cn/search/judgement/type?causeId=da12ab8f403649918590af48ee8c8c03",
+        "运送他人偷越国（边）境": "http://openlaw.cn/search/judgement/type?causeId=3e5ade11847749ea90a181c21e08998d",
+        "偷越国（边）境": "http://openlaw.cn/search/judgement/type?causeId=6e364b193e4b4cae99836608095df6c9",
+        "破坏界碑、界桩": "http://openlaw.cn/search/judgement/type?causeId=3ca477109f0d4727abdf8cbc2cf290b7",
+        "破坏永久性测量标志": "http://openlaw.cn/search/judgement/type?causeId=bf7df45428a0460bb4acf712463f1ee5"
+      },
+      "妨害文物管理": {
+        "故意损毁文物": "http://openlaw.cn/search/judgement/type?causeId=2f02e444ee3844d19413a671d2908174",
+        "故意损毁名胜古迹": "http://openlaw.cn/search/judgement/type?causeId=a76c4746b5214f1eb1845879a853e14c",
+        "过失损毁文物": "http://openlaw.cn/search/judgement/type?causeId=b2526e235eb3464295355681f24cfe1e",
+        "非法向外国人出售、赠送珍贵文物": "http://openlaw.cn/search/judgement/type?causeId=eaef47dd69bc44a49a5965a9d187038f",
+        "倒卖文物": "http://openlaw.cn/search/judgement/type?causeId=70867b0d6d02480889f3783bd7c91bbd",
+        "非法出售、私赠文物藏品": "http://openlaw.cn/search/judgement/type?causeId=2a370d1beebb48cbae841844187a3370",
+        "盗掘古文化遗址、古墓葬": "http://openlaw.cn/search/judgement/type?causeId=9b893ec9c2bb45a2a682b2d5381a8188",
+        "盗掘古人类化石、古脊椎动物化石": "http://openlaw.cn/search/judgement/type?causeId=a4d620a69c53424abe277e3392f15608",
+        "抢夺、窃取国有档案": "http://openlaw.cn/search/judgement/type?causeId=70ad6a46b4c844bb8e3c04875bc7ca11",
+        "擅自出卖、转让国有档案": "http://openlaw.cn/search/judgement/type?causeId=99600f02d40544358d6c41b5e1d15108"
+      },
+      "危害公共卫生": {
+        "妨害传染病防治": "http://openlaw.cn/search/judgement/type?causeId=e9f52a173a6d4bfbb3ba1725195f141c",
+        "传染病菌种、毒种扩散": "http://openlaw.cn/search/judgement/type?causeId=c7f0c79e19454fa9af1c56fafe846731",
+        "妨害国境卫生检疫": "http://openlaw.cn/search/judgement/type?causeId=1740dc4728604fa9ae2ae7b56ea70968",
+        "非法组织卖血": "http://openlaw.cn/search/judgement/type?causeId=3b09877d7b73403da4eee57aba5a4808",
+        "强迫卖血": "http://openlaw.cn/search/judgement/type?causeId=b2fdce53fdcf4d45bdb20437e6a92bf0",
+        "非法采集、供应血液、制作、供应血液制品": "http://openlaw.cn/search/judgement/type?causeId=723e347259064942a914199691eb9dd5",
+        "采集、供应血液、制作、供应血液制品事故": "http://openlaw.cn/search/judgement/type?causeId=df22c98aebb54197a88ded91c57a5a5d",
+        "医疗事故": "http://openlaw.cn/search/judgement/type?causeId=e61c63d186344ea38f3dd8a2353d1c84",
+        "非法行医": "http://openlaw.cn/search/judgement/type?causeId=a262942852c04cd69cb2aaa82ac47960",
+        "非法进行节育手术": "http://openlaw.cn/search/judgement/type?causeId=1be6d82ccc48442d9564e5fd71dc63e5",
+        "妨害动植物防疫、检疫": "http://openlaw.cn/search/judgement/type?causeId=e8c5d74994fe4473a572953c8e94957a"
+      },
+      "破坏环境资源保护": {
+        "污染环境": "http://openlaw.cn/search/judgement/type?causeId=6dd5b4320ff249378df909064549ae11",
+        "非法处置进口的固体废物": "http://openlaw.cn/search/judgement/type?causeId=dfb75f0170b248d1b132ebb798d7189d",
+        "擅自进口固体废物": "http://openlaw.cn/search/judgement/type?causeId=cc5908e4328b41afa8eea799eb9908f8",
+        "非法捕捞水产品": "http://openlaw.cn/search/judgement/type?causeId=07ff109f694c4f6bb7149cf0908156ab",
+        "非法猎捕、杀害珍贵、濒危野生动物": "http://openlaw.cn/search/judgement/type?causeId=0196531b97c04f028f5f0cb7ff0802e6",
+        "非法收购、运输、出售珍贵、濒危野生动物、珍贵、濒危野生动物制品": "http://openlaw.cn/search/judgement/type?causeId=e28b346eadb141b5aacdb326730b7e02",
+        "非法狩猎": "http://openlaw.cn/search/judgement/type?causeId=bc44ca084e784b3f8f25c4fc0cc5c541",
+        "非法占用农用地": "http://openlaw.cn/search/judgement/type?causeId=57051a63a77b407d950fe1ed16c5ca6f",
+        "非法采矿": "http://openlaw.cn/search/judgement/type?causeId=073dcd00659c463187e8c6486ee813d7",
+        "破坏性采矿": "http://openlaw.cn/search/judgement/type?causeId=b3da74698ed14659beb71b6a01014f29",
+        "非法采伐、毁坏国家重点保护植物": "http://openlaw.cn/search/judgement/type?causeId=82ec2a0aed7640378ec244878b3a59b7",
+        "非法收购、运输、加工、出售国家重点保护植物、国家重点保护植物制品": "http://openlaw.cn/search/judgement/type?causeId=9ba121c8a7a44f85a3c2c55bb23b119c",
+        "盗伐林木": "http://openlaw.cn/search/judgement/type?causeId=7f58c4f953594304a5f7b07fc48f543a",
+        "滥伐林木": "http://openlaw.cn/search/judgement/type?causeId=6a19578f3c3340fbb598d1d7b07b3755",
+        "非法收购、运输盗伐、滥伐的林木": "http://openlaw.cn/search/judgement/type?causeId=ff0ed33cec7e4795861e7484fbe83856"
+      },
+      "走私、贩卖、运输、制造毒品": {
+        "走私、贩卖、运输、制造毒品罪": "http://openlaw.cn/search/judgement/type?causeId=e79c946ec5dd40c7b98e446760d11c66",
+        "非法持有毒品": "http://openlaw.cn/search/judgement/type?causeId=c6eaf2cf1f274644a833433759dfa238",
+        "包庇毒品犯": "http://openlaw.cn/search/judgement/type?causeId=a3a99136f664409eb8f3d1397fa2f4b4",
+        "窝藏、转移、隐瞒毒品、毒赃": "http://openlaw.cn/search/judgement/type?causeId=114054ac8ffb467cbdab25ee02fd9030",
+        "走私制毒物品": "http://openlaw.cn/search/judgement/type?causeId=9901a8d027664b518b3c39d8dbbb107c",
+        "非法买卖制毒物品": "http://openlaw.cn/search/judgement/type?causeId=63a491aaf7764daea53d99254f57aee7",
+        "非法种植毒品原植物": "http://openlaw.cn/search/judgement/type?causeId=f94bed0423b64bdab9792352cf6064ed",
+        "非法买卖、运输、携带、持有毒品原植物种子、幼苗": "http://openlaw.cn/search/judgement/type?causeId=9cb8f7b43e6549d19ee7e27a9d5e926d",
+        "引诱、教唆、欺骗他人吸毒": "http://openlaw.cn/search/judgement/type?causeId=5908891ceb574e35bc346cedc7a1f435",
+        "强迫他人吸毒": "http://openlaw.cn/search/judgement/type?causeId=5fe57110a2f1447ea1aa7dd74bb3d1b0",
+        "容留他人吸毒": "http://openlaw.cn/search/judgement/type?causeId=4cb909efc6644a56a2ae3e35f7d78c41",
+        "非法提供麻醉药品、精神药品": "http://openlaw.cn/search/judgement/type?causeId=e142149449e1483092f47a6aa7738504"
+      },
+      "组织、强迫、引诱、容留、介绍卖淫": {
+        "组织卖淫": "http://openlaw.cn/search/judgement/type?causeId=eb876eea9dcd4ae59190115a172f29a8",
+        "强迫卖淫": "http://openlaw.cn/search/judgement/type?causeId=8825c2d3bfc647acb5f3fe2732f9fe1f",
+        "协助组织卖淫": "http://openlaw.cn/search/judgement/type?causeId=52dc141b0314451296a1d3b98a0ead09",
+        "引诱、容留、介绍卖淫": "http://openlaw.cn/search/judgement/type?causeId=66f837a5bfd94767b509085cce31b846",
+        "引诱幼女卖淫": "http://openlaw.cn/search/judgement/type?causeId=de9cd069a6d84f8f843c49cb617c7f01",
+        "传播性病": "http://openlaw.cn/search/judgement/type?causeId=08b29639fdae4109ad8e5448a56fe06a",
+        "嫖宿幼女": "http://openlaw.cn/search/judgement/type?causeId=cb0bd455ca4c4c48a9910db83e4ec17c"
+      },
+      "制作、贩卖、传播淫秽物品": {
+        "制作、复制、出版、贩卖、传播淫秽物品牟利": "http://openlaw.cn/search/judgement/type?causeId=f6a5e38de31e4943b5b5bc1d2856531c",
+        "为他人提供书号出版淫秽书刊": "http://openlaw.cn/search/judgement/type?causeId=69c0ecb52ce7428c966da8708ff717e8",
+        "传播淫秽物品": "http://openlaw.cn/search/judgement/type?causeId=ba018186034244ccaab4a709502b1285",
+        "组织播放淫秽音像制品": "http://openlaw.cn/search/judgement/type?causeId=39137bfa62824db3b3b2672357c1dbf7",
+        "组织淫秽表演": "http://openlaw.cn/search/judgement/type?causeId=68552648476f4174899f5533d7af34e2"
+      }
+    },
+    "危害国防利益": {
+      "阻碍军人执行职务": "http://openlaw.cn/search/judgement/type?causeId=21b0a1a26e0f4b14babb563fd10f223c",
+      "阻碍军事行动": "http://openlaw.cn/search/judgement/type?causeId=c9bc088bac274a57b414dff4adc53250",
+      "破坏武器装备、军事设施、军事通信": "http://openlaw.cn/search/judgement/type?causeId=72d6f15f44a641ad80d020755a2d48f6",
+      "过失损坏武器装备、军事设施、军事通信": "http://openlaw.cn/search/judgement/type?causeId=1208df09c9544491b3fba41c56ff7db6",
+      "故意提供不合格武器装备、军事设施": "http://openlaw.cn/search/judgement/type?causeId=272bed1568d74c188f91ca7f291efe45",
+      "过失提供不合格武器装备、军事设施": "http://openlaw.cn/search/judgement/type?causeId=6b8ff3ceb6fb4a68b8faf85928c9dfd4",
+      "聚众冲击军事禁区": "http://openlaw.cn/search/judgement/type?causeId=2b304fc59d8848579b8de13ee24ada4e",
+      "聚众扰乱军事管理区秩序": "http://openlaw.cn/search/judgement/type?causeId=e56da43cbdfa417f921c5130b064a2fc",
+      "冒充军人招摇撞骗": "http://openlaw.cn/search/judgement/type?causeId=0d827d100b8447ff9f612a2bb84121fb",
+      "煽动军人逃离部队": "http://openlaw.cn/search/judgement/type?causeId=930197ccd099402db471a4c6bb81e76d",
+      "雇用逃离部队军人": "http://openlaw.cn/search/judgement/type?causeId=126c5aafa06843bf95b78481a1e0faf9",
+      "接送不合格兵员": "http://openlaw.cn/search/judgement/type?causeId=ad7b8ef2a63b461e9bf296156a558c2d",
+      "伪造、变造、买卖武装部队公文、证件、印章": "http://openlaw.cn/search/judgement/type?causeId=b43b5dc9da1c41cc8d1d83d877cf4800",
+      "盗窃、抢夺武装部队公文、证件、印章": "http://openlaw.cn/search/judgement/type?causeId=233e6e5687f44c999a80c338dfa003b4",
+      "非法生产、买卖武装部队制式服装": "http://openlaw.cn/search/judgement/type?causeId=2a807f7eaba146abb3a43ceb83958a5e",
+      "伪造、盗窃、买卖、非法提供、非法使用武装部队专用标志": "http://openlaw.cn/search/judgement/type?causeId=48f8bca8304c41649f364f79aa16a50d",
+      "战时拒绝、逃避征召、军事训练": "http://openlaw.cn/search/judgement/type?causeId=4716dfabe21a48ce93ffa3467f19d095",
+      "战时拒绝、逃避服役": "http://openlaw.cn/search/judgement/type?causeId=28e48c12412d4f40ac860cafa9f243e9",
+      "战时故意提供虚假敌情": "http://openlaw.cn/search/judgement/type?causeId=5afe9776a9e64a41adb6483ea279a1c8",
+      "战时造谣扰乱军心": "http://openlaw.cn/search/judgement/type?causeId=5e01cbbe086d44b4a6786642a4820399",
+      "战时窝藏逃离部队军人": "http://openlaw.cn/search/judgement/type?causeId=47867962ced94612b3685e3d7bdba046",
+      "战时拒绝、故意延误军事订货": "http://openlaw.cn/search/judgement/type?causeId=bf66d95eabc4470797304930d3b735c5",
+      "战时拒绝军事征用": "http://openlaw.cn/search/judgement/type?causeId=a5b583f22fd94c63b8d93d127a3ae2d3"
+    },
+    "贪污贿赂": {
+      "贪污": "http://openlaw.cn/search/judgement/type?causeId=ad64e0f0226e4b2496bbe54da9841726",
+      "挪用公款": "http://openlaw.cn/search/judgement/type?causeId=b11be52f2730470d83c02866fd9d519a",
+      "受贿": "http://openlaw.cn/search/judgement/type?causeId=0963009a290444ed8e0e7eacab86556f",
+      "单位受贿": "http://openlaw.cn/search/judgement/type?causeId=28bf7f5d4e294e9aa748f39f6361a5f9",
+      "利用影响力受贿": "http://openlaw.cn/search/judgement/type?causeId=510f9e92704148b58c7cf666afce2021",
+      "行贿": "http://openlaw.cn/search/judgement/type?causeId=6f73f67caf8c487f93fbc585c4e60db4",
+      "对单位行贿": "http://openlaw.cn/search/judgement/type?causeId=ca6a961f1dd947beabf8559be5770fa2",
+      "介绍贿赂": "http://openlaw.cn/search/judgement/type?causeId=d2d679dca27b4045b02840f8f502ca4a",
+      "单位行贿": "http://openlaw.cn/search/judgement/type?causeId=6e197b7e3e044c37818b87ecb00d77a5",
+      "巨额财产来源不明": "http://openlaw.cn/search/judgement/type?causeId=7867b3bc1d6c4716859cfbb89b5a0aa4",
+      "隐瞒境外存款": "http://openlaw.cn/search/judgement/type?causeId=04369ced66834b04914ec05989005989",
+      "私分国有资产": "http://openlaw.cn/search/judgement/type?causeId=d87d34d5835342e193fe9067ab2bf21b",
+      "私分罚没财物": "http://openlaw.cn/search/judgement/type?causeId=3ee6488546a845bc88a0bc19685f51e9"
+    },
+    "渎职": {
+      "滥用职权": "http://openlaw.cn/search/judgement/type?causeId=647fd8c46e3e41d5af773521dff18ac9",
+      "玩忽职守": "http://openlaw.cn/search/judgement/type?causeId=28c463670d484c748b0d62fef23c61be",
+      "故意泄露国家秘密": "http://openlaw.cn/search/judgement/type?causeId=c7189cf343a2460a8fabdaf4b4bfb217",
+      "过失泄露国家秘密": "http://openlaw.cn/search/judgement/type?causeId=942111b0402a447bb701b787ffaf904e",
+      "徇私枉法": "http://openlaw.cn/search/judgement/type?causeId=5f2563fb6be84cb8b8203178b8b5de8d",
+      "民事、行政枉法裁判": "http://openlaw.cn/search/judgement/type?causeId=733da1ed8b5946c7a0c3f552c9a865f1",
+      "执行判决、裁定失职": "http://openlaw.cn/search/judgement/type?causeId=0bb3fd2a1e7540619116d267a40f4955",
+      "执行判决、裁定滥用职权": "http://openlaw.cn/search/judgement/type?causeId=898589a7b98e4803bb401dce2ba75373",
+      "枉法仲裁": "http://openlaw.cn/search/judgement/type?causeId=0b941603891442549790563e49cd8704",
+      "私放在押人员": "http://openlaw.cn/search/judgement/type?causeId=e72388b6a8d14c5d9620cad024005155",
+      "失职致使在押人员脱逃": "http://openlaw.cn/search/judgement/type?causeId=49af2cd0e7c64440b55d05206d746df1",
+      "徇私舞弊减刑、假释、暂予监外执行": "http://openlaw.cn/search/judgement/type?causeId=30aa5da2693241f5b8d6da858fc8f8fd",
+      "徇私舞弊不移交刑事案件": "http://openlaw.cn/search/judgement/type?causeId=5b80e76d75ac4f15830f62a1a4050b67",
+      "滥用管理公司、证券职权": "http://openlaw.cn/search/judgement/type?causeId=9e6d9519545e4f39a0080f8163d024c1",
+      "徇私舞弊不征、少征税款": "http://openlaw.cn/search/judgement/type?causeId=a79dc43eb5d444aebcd3681e32383e26",
+      "徇私舞弊发售发票、抵扣税款、出口退税": "http://openlaw.cn/search/judgement/type?causeId=48a479f3283d4627abb1e411527d8c1a",
+      "违法提供出口退税凭证": "http://openlaw.cn/search/judgement/type?causeId=cb57f42b8e3e47458863ae2e82cc31ed",
+      "国家机关工作人员签订、履行合同失职被骗": "http://openlaw.cn/search/judgement/type?causeId=5e37dcfaa4f34b20a666b51c95ce1213",
+      "违法发放林木采伐许可证": "http://openlaw.cn/search/judgement/type?causeId=bfbe03cb5f774818861905a65c057ab5",
+      "环境监管失职": "http://openlaw.cn/search/judgement/type?causeId=1b8c7ff872994889a647ee6102408269",
+      "食品监管渎职": "http://openlaw.cn/search/judgement/type?causeId=361827684a554b3f83e544e0bfa44a5e",
+      "传染病防治失职": "http://openlaw.cn/search/judgement/type?causeId=39b9cd029e80451cba8e1fddaa5f721c",
+      "非法批准征用、占用土地": "http://openlaw.cn/search/judgement/type?causeId=9f213ea1d6da42c290e0f2a4c339aff5",
+      "非法低价出让国有土地使用权": "http://openlaw.cn/search/judgement/type?causeId=84aa0596af71486db4010df9f43ce281",
+      "放纵走私": "http://openlaw.cn/search/judgement/type?causeId=c506ed1607f54702864d35678c88dc09",
+      "商检徇私舞弊": "http://openlaw.cn/search/judgement/type?causeId=4f3c55f8c5494e87b57db64f22e20676",
+      "商检失职": "http://openlaw.cn/search/judgement/type?causeId=3434e4d1f56b4072bf14797c1f65d2f2",
+      "动植物检疫徇私舞弊": "http://openlaw.cn/search/judgement/type?causeId=82cebb208e864c9ea523ee1cad83e040",
+      "动植物检疫失职": "http://openlaw.cn/search/judgement/type?causeId=fce8bd06ba034bbcbe435c51aec2d8f3",
+      "放纵制售伪劣商品犯": "http://openlaw.cn/search/judgement/type?causeId=ebb18b12505e454b84f45c2d4878764e",
+      "办理偷越国（边）境人员出入境证件": "http://openlaw.cn/search/judgement/type?causeId=3fd6bee37a344ac7b3ae86193ed99aea",
+      "放行偷越国（边）境人员": "http://openlaw.cn/search/judgement/type?causeId=4e5aed82cc0941b5ba03cf984b1ec5ed",
+      "不解救被拐卖、绑架妇女、儿童": "http://openlaw.cn/search/judgement/type?causeId=cf6d5bc0719d418e96e1069a88db2c7b",
+      "阻碍解救被拐卖、绑架妇女、儿童": "http://openlaw.cn/search/judgement/type?causeId=4440794e571d479bac4099aa7feb9f8b",
+      "帮助犯": "http://openlaw.cn/search/judgement/type?causeId=954bc85ccca14ad185d33e4828895550",
+      "招收公务员、学生徇私舞弊": "http://openlaw.cn/search/judgement/type?causeId=04d1722b595b4739b93f97ccaf9b8b1b",
+      "失职造成珍贵文物损毁、流失": "http://openlaw.cn/search/judgement/type?causeId=2aaabb202c91459cb4a6b2cbc6882828"
+    },
+    "军人违反职责": {
+      "战时违抗命令": "http://openlaw.cn/search/judgement/type?causeId=33e8ad558028401b87d3ec9cc0d75c1c",
+      "隐瞒、谎报军情": "http://openlaw.cn/search/judgement/type?causeId=0c2a80a458fe43fca68c50df5af2d8f3",
+      "拒传、假传军令": "http://openlaw.cn/search/judgement/type?causeId=12abc7cf076a4ab4968c6a4ada8c6dd5",
+      "投降": "http://openlaw.cn/search/judgement/type?causeId=273bae2128134a9e8f40e11d84f66710",
+      "战时临阵脱逃": "http://openlaw.cn/search/judgement/type?causeId=f88e9a020c6c451eb0259fd287950162",
+      "擅离、玩忽军事职守": "http://openlaw.cn/search/judgement/type?causeId=21af824c496e4d95ae2d1d37a3f2e88d",
+      "阻碍执行军事职务": "http://openlaw.cn/search/judgement/type?causeId=eb72b7e5faad469293e37620f4e2495d",
+      "指使部属违反职责": "http://openlaw.cn/search/judgement/type?causeId=f6041ae259c84e38a8b0b0136bfe54b2",
+      "违令作战消极": "http://openlaw.cn/search/judgement/type?causeId=e878bc445439430da383d305d927d1ed",
+      "拒不救援友邻部队": "http://openlaw.cn/search/judgement/type?causeId=953cb15abfd742e38e9591ed6c8deac8",
+      "军人叛逃": "http://openlaw.cn/search/judgement/type?causeId=f5f58d1e62a74b55a8787fc824f8cc01",
+      "非法获取军事秘密": "http://openlaw.cn/search/judgement/type?causeId=42edebb4c8c64b4cb28e9e92da4b9302",
+      "为境外窃取、剌探、收买、非法提供军事秘密": "http://openlaw.cn/search/judgement/type?causeId=9a91da21a3ef4121bfef2eacd3834c27",
+      "故意泄露军事秘密": "http://openlaw.cn/search/judgement/type?causeId=b6d39155f12f45b6931f1ffe1e79e806",
+      "过失泄露军事秘密": "http://openlaw.cn/search/judgement/type?causeId=3fa37a63ea5943eaafb5a429ff6f2da8",
+      "战时造谣惑众": "http://openlaw.cn/search/judgement/type?causeId=9c2b240e30a7476894428057afea7eac",
+      "战时自伤": "http://openlaw.cn/search/judgement/type?causeId=427bd9460c274e86b23b00e100f9feee",
+      "逃离部队": "http://openlaw.cn/search/judgement/type?causeId=10e991a1df0b453f9febdb66c97f0f5c",
+      "武器装备肇事": "http://openlaw.cn/search/judgement/type?causeId=78c44ad107f140f5968e0348814cecbb",
+      "擅自改变武器装备编配用途": "http://openlaw.cn/search/judgement/type?causeId=841af9df5a074e1f9fca6fcae56aa4ce",
+      "盗窃、抢夺武器装备、军用物资": "http://openlaw.cn/search/judgement/type?causeId=226b21f8d2f541a5899d86801212f794",
+      "非法出卖、转让武器装备": "http://openlaw.cn/search/judgement/type?causeId=aea7285533ee4598ae420a26a422528d",
+      "遗弃武器装备": "http://openlaw.cn/search/judgement/type?causeId=c48993197c28483993619e013585f205",
+      "遗失武器装备": "http://openlaw.cn/search/judgement/type?causeId=01204cedf4c049ddb6514b20dbfcf602",
+      "擅自出卖、转让军队房地产": "http://openlaw.cn/search/judgement/type?causeId=3f5391c5f87944a4a54f839415f5e3cf",
+      "虐待部属": "http://openlaw.cn/search/judgement/type?causeId=c75f8b5fea984f9d872e4d30068844f0",
+      "遗弃伤病军人": "http://openlaw.cn/search/judgement/type?causeId=5d91bb446a264f95be3081bb1b4fa1bf",
+      "战时拒不救治伤病军人": "http://openlaw.cn/search/judgement/type?causeId=ecf04d2e65ae4771bb966d205b98e69e",
+      "战时残害居民、掠夺居民财物": "http://openlaw.cn/search/judgement/type?causeId=bc2fa721195d4114bd2201acb061ca1f",
+      "私放俘虏": "http://openlaw.cn/search/judgement/type?causeId=98a8f6e882c24b16840d94085f24a169",
+      "虐待俘虏": "http://openlaw.cn/search/judgement/type?causeId=2ce2af3233184422a2b695d0b3cc81ea"
+    }
+  },
+  "执行": {
+    "刑事执行": "http://openlaw.cn/search/judgement/type?causeId=2e168943daec4ae2ae287f01b8524986",
+    "民事执行": "http://openlaw.cn/search/judgement/type?causeId=4d4ed2b0aea446f5bd5e1432e33c27e5",
+    "行政执行": "http://openlaw.cn/search/judgement/type?causeId=2d5f9064c95044aab65b3616a2cbe40e",
+    "赔偿执行": "http://openlaw.cn/search/judgement/type?causeId=c2ec0299f2904d74a42703696155d1b4"
+  }
+}

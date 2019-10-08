@@ -1,0 +1,15 @@
+{
+  "name": "openlaw",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngolin/crawler-openlaw.git"
+  },
+  "author": "Li Hongzhang",
+  "dependencies": {
+    "@types/chrome": "0.0.88"
+  }
+}

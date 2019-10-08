@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "OpenLaw",
   "version": "1.0.0",
-  "permissions": ["notifications"],
+  "permissions": ["notifications", "tabs"],
   "browser_action": {
     "default_icon": "icons/icon16x.png"
   },
@@ -25,7 +25,13 @@
     },
     {
       "matches": ["http://openlaw.cn/search/judgement/*"],
-      "js": ["navigate.js"]
+      "js": ["navigate.js", "tree.js"],
+      "run_at": "document_end"
+    },
+    {
+      "matches": ["http://openlaw.cn/login.jsp*"],
+      "js": ["autologin.js"],
+      "run_at": "document_end"
     }
   ]
 }

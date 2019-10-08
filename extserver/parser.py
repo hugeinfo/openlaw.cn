@@ -1,11 +1,11 @@
-def split_data(cls):
+def split_data(nodes):
     from re import match
 
     data = {}
-    for cl in cls:
-        if not cl:
+    for node in nodes:
+        if not node:
             continue
-        for li in cl.find_all("li"):
+        for li in node.find_all("li"):
             kv = li.get_text().strip()
             m = match(r"(.+) *[:：] *(.+)", kv)
             if m:

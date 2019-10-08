@@ -1,12 +1,21 @@
-function bodyObj() {
-  const olid = /http:\/\/openlaw\.cn\/judgement\/([-_a-z0-9]+)/i.exec(
-    window.location.href
-  )[1];
-  const html = document.getElementById('primary').innerHTML;
-  if (olid && html.indexOf('<h2 class="entry-title">') > -1) {
-    return { html, olid };
+function closeWindow(closing) {
+  if (closing || (window.opener && window.opener.navigating)) {
+    window.close();
   }
-  throw 'Bad content.';
+}
+
+function bodyObj() {
+  try {
+    const olid = /http:\/\/openlaw\.cn\/judgement\/([-_a-z0-9]+)/i.exec(
+      window.location.href
+    )[1];
+    const html = document.getElementById('primary').innerHTML;
+    if (olid && html.indexOf('<h2 class="entry-title">') > -1) {
+      return { html, olid };
+    }
+  } catch (e) {
+    closeWindow();
+  }
 }
 
 fetch('http://127.0.0.1:5050/save', {
@@ -18,10 +27,5 @@ fetch('http://127.0.0.1:5050/save', {
     'Content-Type': 'application/json'
   }
 })
-  .then(res => {
-    if (res.ok) return res.json();
-    throw res.statusText;
-  })
-  .then(okay => {
-    if (okay) window.close();
-  });
+  .then(() => closeWindow(true))
+  .catch(closeWindow);
